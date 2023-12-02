@@ -1,0 +1,56 @@
+以下联系方式按照优先度排列。
+* [[*user pbplankin]]：QQ2223933010、[https://www.wikidot.com/account/messages#/new/7627754 站内信]
+* [[*user asaerror]]：[https://www.wikidot.com/account/messages#/new/7975483 站内信]，郵箱：@@asaerror@outlook.com@@ Discord：Asaerror#9513
+* [[*user yuni811]]：QQ1711073347、[https://www.wikidot.com/account/messages#/new/8083489 站内信]
+* [[*user nekocarpet]]：[https://www.wikidot.com/account/messages#/new/8152326 站内信]
+------
+[[=]]
+**目前状态：建设中**
+[[div class="progress-bar"]]
+[[div class="progress-done animated"]]
+[[/div]]
+[[/div]]
+**交流群：778730020**
+----
+//以下排名不分先后//
+@@@@
+**朋友们**
+[[*user pbplankin]]
+[[*user yuni811]]
+[[*user asaerror]]
+[[*user virusjoe]]
+[[*user inchu]]
+[[*user sopranomajo]]
+@@@@
+@@@@
+**吉祥物**
+[[*user nekocarpet]]
+@@@@
+@@@@
+**特别鸣谢**
+[*https://space.bilibili.com/18317455 甜魚餅]
+[*https://space.bilibili.com/172413936 盾勇十代目]
+以及热爱着梦日记与派生的各位！
+[[/=]]
+[[module css]]
+.progress-bar {height:1em;width:80%;margin:0 auto;padding:0;border:2px solid #3f0b00;border-radius:1em;background-color:#ddd;overflow:hidden;}
+
+.progress-done {height:1em;width:65%;margin:0;padding:0;border-radius:1em 0 0 1em;background-color:#6b3333;background-image:linear-gradient(to right , #5a0000 , #6b0000 , #5a0000 , #6b0000 , #5a0000 , #6b0000 , #5a0000 , #6b0000);}
+
+.banned {background-image:linear-gradient(to right , #5a4444 , #6b4444 , #5a4444 , #6b4444 , #5a4444 , #6b4444 , #5a4444);}
+
+.animated {animation-name:progress;animation-duration:.8s;animation-fill-mode:forwards;}
+
+.progress-done::after {display:inline-block;font-size:.8em;content:"65%";margin-left:101%;color:#380000;}
+
+.animated::after {opacity:0;animation-name:reveal;animation-duration:.2s;animation-delay:.8s;animation-fill-mode:forwards;}
+
+@keyframes progress {
+    from { margin-left:-100%; }
+    to { margin-left:0; }
+}
+@keyframes reveal {
+    from { opacity:0; }
+    to { opacity:1; }
+}
+[[/module]]

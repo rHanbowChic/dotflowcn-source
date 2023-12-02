@@ -1,0 +1,13 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+|||| //隐形图片//[!--[[image http://i.imgur.com/jQDq8ad.jpg width="300px"]]--] ||
+||||~ ^^我滴铁锈子捏^^ ||
+[[/div]]
+
+这个漏洞会让铁锈子隐身。
+
++++ 激活漏洞
+在[/use-effects-in-bed 床上]使用[/arms 手臂]效果。
+
++++ 备考
+* 有些区域会让铁锈子再次变得可见，比如[/rainbow-maze 彩虹]入口处的过渡单行道。
+* 激活[/false-menu-change 伪菜单样式]同样会使铁锈子隐身。

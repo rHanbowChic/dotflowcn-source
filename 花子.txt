@@ -1,0 +1,30 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+|||| [[=image Flower_Girl.png size="small"]] ||
+||||~ ^^两处植物部屋中的花子^^ ||
+[[/div]]
+**花子**是出现在[/plant-corridors 植物迷宫]和[/illusionary-corridors 幻想迷宫]的NPC。她是[/flower-menu “花”菜单主题]的给予者。在被用[/iron-pipe 铁管]杀死后，她的尸体不会消失，而是会留在原地并夸张地迅速倒下。
+
++++ 指南
+* [/entrance 入口] > [/dysmorphic-world 畸形] > [/footprint-path 足迹] > [/plant-corridors 植物迷宫]
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/snow-world 雪原] > [/illusionary-corridors 幻想迷宫]
+
+在植物迷宫中，花子出现在[/plant-corridors#toc4 植物部屋]。在那里，她躲在西北处墙后的一处缝隙里，被藤蔓覆盖着。只有在杀死她后，植物深部中央的门才会打开。这扇门通向花子，一个连接了植物迷宫与幻想迷宫的小空间。花子不会在重新进入植物部屋时重生。
+
+在幻想迷宫中，花子出现的房间同样名为[/illusionary-corridors#toc4 植物部屋]。她被植物束缚在两台监测仪中间。
+
++++ 备考
+* 花子曾经出现在[/apartments#toc2 公寓的第二个房间中]，后来被移走。
+* 花子有独特的死亡音效。
+* [/rust 锖]无法见到活着的花子。
+
++++ 推测
+* 从缺……
+
++++ 死亡动画
+[[table]]
+[[row]]
+[[hcell style="width:350px"]]
+[[image Flower_Girl_Death.png width="330px"]]
+[[/hcell]]
+[[/row]]
+[[/table]]

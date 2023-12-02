@@ -1,0 +1,15 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:100px; border:0;"]]
+|||| [[=image Orange_Jelly.png width="76px"]] ||
+||||~ ^^果冻^^ ||
+[[/div]]
+**果冻**（ぶよぶよ）是两只分别出现在[/apartments 公寓]和[/reverse-apartments 里公寓]的橙色史莱姆。与它们互动时它们会发出泡泡声。
+
++++ 指南
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] (> [/cloud-world 云] > [/reverse-apartments 里公寓])
+第一只果冻出现在公寓上行的楼梯间中。第二只果冻隐藏在里公寓的下行楼梯间中：当[/sabitsuki 铁锈子]走到房间较深处时，这只果冻可能突然从天花板上掉下来。如果第二只果冻没有出现，那只有重新进入flow状态才有可能见到它。
+
++++ 备考
+* 果冻的声音是[/connecting-tile-path 连瓦]中在蓝色地砖上的行走声。
+
++++ 推测
+* 可爱的果冻似乎象征着美好的事物，或是与[/oreko 潜水子]有关。

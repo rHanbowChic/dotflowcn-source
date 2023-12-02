@@ -1,0 +1,26 @@
+[[div class="warning"]]
+[[size 140%]]警告：[[/size]]
+
+该事件可能导致光敏性癫痫，请酌情观赏。
+[[/div]]
+------
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+|||| [[image Rbow-Flower width="300px"]] ||
+||||~ ^^彩虹花事件中的某一幕^^ ||
+[[/div]]
+**“彩虹花”**事件发生在[/psychedelic-town 迷幻街道]，获得[/watering-can “喷壶”]效果是该事件的先决条件。
+
+装备上“喷壶”效果后，按行动键[[span class="keycap"]]Shift[[/span]]开始降雨以灌溉这里的花并使之开放。接着，与正中央开放的花朵互动以开始事件。
+
+按下[[span class="keycap"]]X[[/span]]即可结束该事件。
+
++++ 指南
+* [/entrance 入口] > [/dysmorphic-world 畸形] > [/footprint-path 足迹] > [/rainbow-maze 彩虹] >  [/psychedelic-town 迷幻街道]
+按照[/rainbow-maze 彩虹]中的地图部分，从2B入口进入彩虹地之后，先进入最东面的入口，然后马上返回并向西走，你会发现那里出现了一扇新的门。进入后向东走，进入下一个区域，再走进一条三格宽的入口、穿过尽头的一对蓝色广告立牌，然后向北走到[/sweet-sugar Sweet Sugar]的入口前（不要进入），从该建筑西面继续北行并穿过你找到的找到一对彩虹色雕像以进入下个区域，然后用“喷壶”效果浇花，最后与花互动。
+
++++ 备考
+* 本事件所用到的图片文件，其文件名都有“asd”前缀。
+ * ASD是孤独症（Autistic Spectrum Disorder）的缩写，包括自闭症、阿斯伯格综合症等等。
+
++++ 推测
+* 从缺……

@@ -1,0 +1,66 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:100px; border:0;"]]
+|||| [[image Sister.png width="48px"]] ||
+||||~ ^^妹妹^^ ||
+[[/div]]
+**妹妹**是出现在[/neighborhood 邻里]的NPC。这个黑发小女孩总是躲在哥哥[/smile 笑颜]的身后，抓着他不放手，并且时不时探出头。
+
++++ 指南
+* [/entrance 入口] > [/music-world 音乐] > [/connecting-tile-path 连瓦] > [/white-room 白色房间] > [/blood-maze 血液] > [/insides 内] > [/sewers 下水道] > [/wastewater-lake 废水湖] > [/neighborhood 邻里]
+妹妹出现在邻里北部的家中。
+
++++ 备考
+* 当[/sabitsuki 铁锈子]拿出[/iron-pipe 铁管]或者[/handgun 鸣枪]警示时，妹妹会躲回笑颜身后不肯出现。
+* 因为笑颜的保护，妹妹不会被铁管杀死。
+* 妹妹和笑颜共用一组动画文件。
+* 实际上妹妹在游戏代码和文件中都没有名字，但是控制她躲在笑颜背后的开关名为“smile兄妹動作制御”。这证实了他们的兄妹关系。
+* [/lol 身身身]的一些画中呈现了妹妹拿着菜刀的形象。
+* 妹妹是《.flow》早期开发时的主人公，后来被铁锈子所替换。
+ * //“《.flow》最初的主人公不是铁锈子呢……在公开前只是测试角色，那时候的主人公是这边的小妹妹，是这个孩子呢。后来感觉白发更流行所以换成了她。”——身身身//
+
++++ 艺作
+[[table]]
+[[row]]
+[[hcell style="width:300px"]]
+[[image egao.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[image shigotogaeri.jpg size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[image sister.jpg size="small"]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell style="text-align:center"]]
+笑顔
+[[/cell]]
+[[cell style="text-align:center"]]
+仕事帰り
+[[/cell]]
+[[cell style="text-align:center"]]
+sister / kitchen knife
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="width:300px"]]
+[[image 19123618_p0.jpg size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[image uhehehe.jpg size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[image Before_and_after.jpg size="small"]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell style="text-align:center"]]
+
+[[/cell]]
+[[cell style="text-align:center"]]
+うへへへ
+[[/cell]]
+[[cell style="text-align:center"]]
+
+[[/cell]]
+[[/row]]
+[[/table]]

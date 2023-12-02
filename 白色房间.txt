@@ -1,0 +1,75 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+|||| [[image White_Room.png width="300px"]] ||
+||||~ ^^白色房间^^ ||
+[[/div]]
+**白色房间**（白い部屋）是一系列外观类似医院的、随机变化的区域。
+
+在白色房间时，玩家可以穿过门口，这条路通向三个版本的**白色十字路口**（白い十字路）其中之一。根据玩家选择的方向，十字路口将通向**回路血液通路**（回路血液通路↑）或**回路卧室**（回路寝室）。
+
+每当玩家进入十字路口时，**走廊随机变量**都会变为从0到2的随机数。如果变量为0，玩家将被传送入白色十字路口1；变量为1则进入白色十字路口2；而变量为2则会进入白色十字路口3。
+
+在白色十字路口中，向血迹最多的方向走即可到达回路血液通路，而向其他方向走将会被传送回白色十字路口。当连续三次回到白色十字路口后，下一次传送的目的地将改为回路卧室。
+
+回路血液通路是一个有门的房间，通向[/Blood-Maze 血液]。到达这里将重置走廊计数器，而尝试回头会被传送到白色房间，这同样会重置计数器。
+
+回路卧室里有一台破碎的监测仪、在墙上的监视器和一张被占用的床。当[/Rust 锖]来到此地时这里会有一个[/Fetuses 胎儿]徘徊于此。通过与监视器交互，玩家将被传送到[/Submarine-World 海底世界]的电视区域，同时重置走廊计数器。与此处的巨型电视交互可以来到该区域。从海底世界回到白色房间是不可能的。通过从回路卧室返回十字路口，玩家将进入白色房间，走廊计数器将设置为0。
+
++++ 指南
+* [/Entrance 入口] > [/Music-World 音乐] > [/Connecting-Tile-Path 连瓦] > 白色房间
+
++++ 连接
+* [/Connecting-Tile-Path 连瓦]
+* [/Blood-Maze 血液]
+* [/Submarine-World 海底世界]
+
++++ 备考
+* “回路血液通路回路↑”中的“回路”可能是“回廊”的误拼，因为前者读作“kairo”，后者读作“kairō”。
+
++++ 推测
+* 与[/hospital 医院]相比，这可能是一家小型诊所，或许也是[/sabitsuki 铁锈子]去过的第一家医院。
+
++++ 景观
+[[table]]
+[[row]]
+[[hcell style="width:300px"]]
+[[image White_Crossroad1.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[image White_Crossroad2.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[image White_Crossroad3.png size="small"]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell style="text-align:center"]]
+白色十字路口1
+[[/cell]]
+[[cell style="text-align:center"]]
+白色十字路口2
+[[/cell]]
+[[cell style="text-align:center"]]
+白色十字路口3
+[[/cell]]
+[[/row]]
+[[row]]
+[[hcell style="width:300px"]]
+[[image Blood_Corridor_Passage.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[image Corridor_Bedroom.png size="small"]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell style="text-align:center"]]
+回路血液通路↑
+[[/cell]]
+[[cell style="text-align:center"]]
+[[/cell]]
+[[cell style="text-align:center"]]
+回路卧室
+[[/cell]]
+[[/row]]
+[[/table]]

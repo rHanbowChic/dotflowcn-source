@@ -1,0 +1,22 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+|||| [[=image Machine_Effect.png width="72px"]] ||
+||||~ ^^变成机械的铁锈子^^ ||
+[[/div]]
+**“机械”**（きかい）效果可以让铁锈子的四肢机械化，并在她的后脑勺连接一个不明装置。这个效果可以在[[[Star-World|]]]中获得。这个装饰性效果并不会给铁锈子任何附加能力。
+
++++ 指南
+* [[[entrance|]]]> [[[plant-world|]]] > [[[submarine-world|]]] > [[[Star-World|]]]
+
+进入植物后向东南走，直到你看见两根被白色花朵环绕的高大芦苇。从它们中间穿过进入海底世界并从入口处向南走，你会来到一个非常广阔的区域。然后向南行走，直到看到由18根芦苇摆成的一行标志物，接下来向西南方行走，你可以看到由轴对称摆放的12根芦苇，由中轴线传过之后向南走，直到见到一截生锈的楼梯，接下来沿着楼梯往下走。
+当你走下楼梯，进入第一扇门向东南行走并和桌子互动即可得到“机械”效果。
+
++++ 视频指南
+[[embedvideo]]
+<iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280126145&page=11" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[[/embedvideo]]
+
++++ 备考
+* [[[gisokuko|]]]和[[[hospital|]]]里的孩子有着与铁锈子的机械效果类似的机械腿。
+
++++ 推测
+* 从缺……

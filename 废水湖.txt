@@ -1,0 +1,28 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+|||| [[image Wastewater_Lake_map.png size="small"]] ||
+||||~ ^^废水湖平面地图^^ ||
+[[/div]]
+**废水湖** (廃水湖)是一个有两个独立迷宫的大面积区域。水中闪烁着粉红色的灯光，有瓦砾和管道，有似乎是红色和紫色的生物。这个世界有[/Slime 史莱姆]效果。
+
+北部迷宫可通过[/Sewers 下水道]进入。通过与位于西边的棕色生物互动，玩家将被传送送到一个小房间，在房间里可以离开[/Music-World 音乐]。与东边的灯柱互动会传送到[/Neighborhood 邻里]。和南方的史莱姆互动会给[/Sabitsuki 铁锈子][/Slime 史莱姆]效果。当[/Rust 锖]来到此区域时，在迷宫的这一部分会出现两个[/Fetuses 胎儿]。
+
+南部迷宫可从[/Reverse-Apartments 里公寓]进入。进入东边的电梯，可以回到[/Reverse-Apartments 里公寓]。通过与西边的学生互动，玩家将被传送到[/School 学校]。与靠近中心的移动橙色星星互动会将传送到[/Orange-Passage 橙色地下通道]。当[/Rust 锖]来到迷宫的这一部分时，这里有三个[/Fetuses 胎儿]。
+
++++ 指南
+* [/Entrance 入口] > [/Footprint-Path 足迹] > [/Rainbow-Maze 彩虹] > [/Psychedelic-Town 迷幻街道] > [/Sewers 下水道] > [/Sugar-Hole Sugar Hole] > [/Sewers 下水道] > 废水湖(北部)
+* [/Entrance 入口] > [/Music-World 音乐] > [/Connecting-Tile-Path 连瓦] > [/White-Room 白色房间] > [/Blood-Maze 血液] > [/Insides 内] > [/Sewers 下水道] > 废水湖(北部)
+* [/Entrance 入口] > [/Utility-Pole-World 电线杆] > [/Apartments 公寓] > [/Cloud-World 云] > [/Reverse-Apartments 里公寓] > 废水湖(南部)
+* [/Entrance 入口] > [/Dysmorphic-World 畸形] > [/Footprint-Path 足迹] > [/Rainbow-Maze 彩虹] > [/Psychedelic-Town 迷幻街道] > [/Sewers 下水道] > [/Sugar-Hole Sugar Hole] > [/Reverse-Apartments 里公寓] > 废水湖(南部)
+
++++ 连接
+* [/Sewers 下水道]
+* [/Music-World 音乐]
+* [/Neighborhood 邻里]
+* [/Reverse-Apartments 里公寓]
+* [/Orange-Passage 橙色地下通道]
+
++++ 备考
+* 北方的废水中有一名红色生物，其眼睛睁闭取决于每次玩家进入flow状态时随机化的变量。
+
++++ 推测
+* 从缺……

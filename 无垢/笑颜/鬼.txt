@@ -1,0 +1,64 @@
+**“无垢/笑颜/鬼”**是游戏中的三个特殊收集品，只能由[/rust 锖]收集；形式上属于效果，但不能被装备。收集所有三个收集品是触发[/rust-ending 锈蚀结局]的先决条件。
+
+[[tabview]]
+[[tab 无垢]]
+[[div style="float:right; margin:0 2em 1em 2em; width:250px; border:0;"]]
+|||| [[image get2.png size="small"]] ||
+||||~ ^^无垢^^ ||
+[[/div]]
+**“无垢”**（無垢）的获取地点位于[[[orange-laboratory|]]]。要想得到该效果，你需要到达台阶底部，然后穿过尽头的机器。
+
+在下一个区域向北走，沿着下一条走廊的同一个方向前进，然后你就会看见一个巨型容器，里面有肢体扭曲的巨型铁锈子。与之互动，“无垢”到手。
+
++++ 指南
+* [[[Entrance|]]] > [[[Music World|]]] > [[[Connecting Tile Path|]]] > [[[White Room|]]] > [[[Blood Maze|]]] > [[[Insides|]]] > [[[Sewers|]]] > [[[Orange Maze|]]] > [[[Orange Laboratory|]]]
+
++++ 视频指南
+[[embedvideo]]
+<iframe src="//player.bilibili.com/player.html?aid=343880768&bvid=BV1D94y1D7BV&cid=787831912&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[[/embedvideo]]
+[[/tab]]
+[[tab 笑颜]]
+[[div style="float:right; margin:0 2em 1em 2em; width:250px; border:0;"]]
+|||| [[image get3.png size="small"]] ||
+||||~ ^^笑颜^^ ||
+[[/div]]
+**“笑颜”**（笑顔）的获取地点位于[[[school|]]]的地下室。要想得到该效果，你必须尽力深入学校的最底层，然后穿过先前无法进入的门。
+
+门后的房间贴满了嘴的粗陋画像，围绕着一张血盆大口。与之互动，“笑颜”到手。与此同时，墙上的嘴发出刺耳的笑声，而后锖会被传送回地下室的门外。
+
++++ 指南
+* [[[Entrance|]]] > [[[Music World|]]] > [[[Connecting Tile Path|]]] > [[[White Room|]]] > [[[Blood Maze|]]] > [[[Insides|]]] > [[[Sewers|]]] > [[[Wastewater Lake|]]] > [[[Neighborhood|]]] > [[[School|]]]
+
++++ 视频指南
+[[embedvideo]]
+<iframe src="//player.bilibili.com/player.html?aid=343880768&bvid=BV1D94y1D7BV&cid=787831912&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[[/embedvideo]]
+[[/tab]]
+[[tab 鬼]]
+[[div style="float:right; margin:0 2em 1em 2em; width:250px; border:0;"]]
+|||| [[image get1.png size="small"]] ||
+||||~ ^^鬼^^ ||
+[[/div]]
+**“鬼”**（鬼）的获取地点位于[[[back-ward|]]]。要想得到该效果，你必须尽力前往游行·病栋，然后进入墙上血迹斑斑的洞口，这会将锖传送到[[[blood-pus-rust|]]]事件房间，但锖可以穿过那扇黑色的门。
+
+这扇门通往[[[childbirth|]]]事件所在地，但拦路的[[[onigo|]]]将会在锖接近时迅速崩解。在最后的房间中，巨大的鬼子被钉在墙上，而其腹部被垂直剖开。与之互动，“鬼”到手。而后，锖会被传送回游行·病栋，墙上的洞则会消失。
+
++++ 指南
+* [[[Entrance|]]] > [[[Utility Pole World|]]] > [[[Apartments|]]] > [[[Cloud World|]]] > [[[Reverse Apartments|]]] > [[[Sugar Hole|]]] > [[[Hole|]]] > [[[Hospital|]]] > [[[Back Ward|]]]
+
++++ 视频指南
+[[embedvideo]]
+<iframe src="//player.bilibili.com/player.html?aid=343880768&bvid=BV1D94y1D7BV&cid=787831912&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[[/embedvideo]]
+[[/tab]]
+[[/tabview]]
+
++++ 备考
+* 这些收集品都是以其触发开关与所在房间命名的。
+
++++ 推测
+* 这些物件，以及其收集地点，似乎都代表着铁锈子最痛苦的经历。
+[[module css]]
+.yui-nav{text-align:center;white-space:nowrap;}
+[[/module]]

@@ -1,0 +1,21 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:100px; border:0;"]]
+|||| [[image Gisokuko.png]] ||
+||||~ ^^义足子^^ ||
+[[/div]]
+**义足子**（義足子）是[/sea umi]中的一名黑白单色NPC。她有着如同[/machine “机械”]效果一般的义肢。
+
+义足子在被用[/iron-pipe 铁管]杀死后尸体会留存，并可被再次击打。死后的第一次击打会使义足子发出微弱的呻吟，再之后则鸦雀无声。
+
++++ 指南
+* [/entrance 入口] > [/plant-world 植物] > [/submarine-world 海底世界] > [/submarine-city 海底都市] > [/submarine-corridors 海底迷宫] > [/sea umi]
+义足子出现在[/sea#toc4 umi房间]中。要想到达umi，[/sabitsuki 铁锈子]必须通过[/plant-world 植物]到达[/submarine-city 海底都市]，并且不能在[/submarine-corridors 海底迷宫]中走错路。
+
++++ 备考
+* [/hospital 医院]中有一个装着同种义肢、画风相似的孩子。她们可能是同一个人。
+* 实际上，义足子在游戏文件中并没有名字。
+* [/rust 锖]见不到义足子。
+* 义足子的形象，尤其是圈圈眼，很大程度上参考了《梦日记》中モノ子的形象。
+ * //“啊——可爱！这个，普通地觉得可爱。比、比个心//\\\\//”——身身身//
+
++++ 推测
+* 义足子可能是铁锈子曾在umi所代表的地点见过的一个女孩。铁锈子对她和umi的印象似乎都不深，因此义足子的形象才会是简单的黑白色。

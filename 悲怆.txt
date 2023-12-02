@@ -1,0 +1,19 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+|||| [[image Pier.png width="300px"]] ||
+||||~ ^^台阶底部^^ ||
+[[/div]]
+**悲怆**是一片充满了不可触及的星星的世界，由两部分组成。
+
+第一部分称为**悲怆阶梯**（悲愴階段），顾名思义是一段上下通行的生锈金属消防阶梯，为有限世界。向上走将把你带到[/submarine-world 海底世界]。在台阶的底部有一个来自[/hell 地狱]的生物正在平静地钓鱼。越过他跳下台阶将把你带到地狱中的一片隔绝外界的岛屿上，与岛上的生物互动则可以回到台阶底部。进入台阶中段的白色门可以来到第二部分。
+
+第二部分称为**群星**，[/machine “机械”]效果可以在这里找到。
+
++++ 指南
+* [/entrance 入口]> [/plant-world 植物世界] > [/submarine-world 海底世界] > 悲怆
+* [/entrance 入口]> [/plant-world 植物世界] > [/submarine-world 海底世界] > [/submarine-city 海底都市] > [/submarine-corridors 海底迷宫] > [/prison 水牢] > [/hell 地狱] > 悲怆
+
++++ 备考
+* 从缺……
+
++++ 推测
+* 从缺……

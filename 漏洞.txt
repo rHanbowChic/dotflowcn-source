@@ -1,0 +1,36 @@
+[[table style="width:100%"]]
+[[row]]
+[[cell style="width:50%;vertical-align: text-top;"]]
++++ 主要漏洞
+* [[[Chair Menu|椅中菜单]]]
+* [[[Chair Storage|菜单锁]]]
+* [[[Speed Glitch|速行]]]
+* [[[Double Speed Glitch|神行]]]
+* [[[Unrestricted Effects|现实效果]]]
+* [[[Use Effects in Bed|床上效果]]]
+* [[[Walk Through Walls|穿墙]]]
+[[/cell]]
+[[cell style="width:50%;vertical-align: text-top;"]]
++++ 次要漏洞
+* [[[Bed Softlock|床锁死]]]
+* [[[Bed Save File Break|床锁档]]]
+* [[[Childbirth Shortcut|分娩事件捷径]]]
+* [[[False Menu Change|伪菜单样式]]]
+* [[[Glitched Movement|尻行]]]
+* [[[Kaibutsu Softlock|怪物锁死]]]
+* [[[Invisible Chair|隐形椅子]]]
+* [[[Invisible Sabitsuki|隐形铁锈子]]]
+* [[[Steal the Chair|偷椅子]]]
+* [[[Use Menus During Shinsoku Neko|神速猫内菜单]]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[!--* //Broken Effects//
+* //Effect Spinning//
+* //Glitched Childbirth//
+* //Glitched Ending//
+* //Invisible Shinsoku Neko//
+* //Sitting While Standing (SwS)//
+* //Room Storage//
+* //Steal the Timer//--]

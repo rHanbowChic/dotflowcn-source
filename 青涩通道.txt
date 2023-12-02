@@ -1,0 +1,23 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+|||| [[image Young_Passage_map.png size="small"]] ||
+||||~ ^^青涩通道平面地图^^ ||
+[[/div]]
+**青涩通道** (青通路) 是一个巨大的无限世界，有着青白相间的颜色风格和平静缓和的背景音乐。它是[/microorganism-world 微生物]和[/orange-passage 橙色地下通道]之间的通道。
+
+深灰色的微生物将玩家传送到[/microorganism-world 微生物]，而橙色的星星将玩家传送到[/orange-passage 橙色地下通道]。
+
+这个世界没有其他物体或NPC。
+
++++ 指南
+* [/Entrance 入口] > [/Music-World 音乐] > [/Connecting-Tile-Path 连瓦] > [/White-Room 白色房间] > [/Submarine-World 海底世界] > [/Electric-World 电力] > [/Microorganism-World 微生物] > 青涩通道
+* [/Entrance 入口] > [/Music-World 音乐] > [/Connecting-Tile-Path 连瓦] > [/White-Room 白色房间] > [/Blood-Maze 血液] > [/Insides 内] > [/Sewers 下水道] > [/Orange-Maze 橙色迷宫] > [/Orange-Passage 橙色地下通道] > 青涩通道
+
++++ 连接
+* [/Microorganism-World 微生物]
+* [/Orange-Passage 橙色地下通道]
+
++++ 备考
+* 词语[https://en.wikipedia.org/wiki/Ao_(color) “青(ao)”]在日语中既可以表达蓝色或绿色，也可以用来表达青春。
+
++++ 推测
+* 这个世界可能代表着[/Sabitsuki 铁锈子]最初的日子。这里纯洁平静但空虚，因为铁锈子并不能确切回忆起那些旧日子。

@@ -1,0 +1,43 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+|||| [[=image Gas_Mask_Effect.png width="72px"]] ||
+||||~ ^^戴着防毒面具的铁锈子^^ ||
+[[/div]]
+**“防毒面具”**（ガスマスク）效果可以让铁锈子戴上一张防毒面具。拉起面具{{Shift}}后，铁锈子会露出半边脸。该效果可在[[[plant-corridors|]]]中找到。
+
++++ 指南
+* [[[entrance|]]] > [[[dysmorphic-world|]]] > [[[footprint-path|]]] > [[[plant-corridors|]]]
+
+进入入口北面的通道，然后在畸形中不断往南走，直到你遇见一座被黄色眼睛围绕的恶魔雕像。从此处向西走，你会看见一对从地底伸出的手臂。穿过他们后你会被传送到一片由手臂雕塑围成的房间，而你需要躲避此处敌对[/kaibutsu 怪物]的追逐。尽快在此处找到一对脚印并踩上去，你就会发现自己出现在了足迹。
+
+跟随脚印组成的道路前进，并进入第一个向北的路口，走到底。用[[[iron-pipe|铁管]]]不断击打道路尽头的触手直到你被传送到下一个地区[[footnote]] 其实也可以直接互动，但直接互动的成功几率是1/29，而用铁管击打的成功几率是1/10。 [[/footnote]]。找到一扇由血肉组成的门后，绕过门前的怪物进入这扇门继续前进，最后你会进入植物迷宫。穿过西侧的入口，与一朵冒烟的花互动即可得到“防毒面具”效果。
+
++++ 视频指南
+[[embedvideo]]
+<iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280123074&page=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[[/embedvideo]]
+
++++ 备考
+* 装备“防毒面具”效果后进入[[[debug-room|]]]并与此处的双马尾面具铁锈子互动，便可将铁锈子也变为双马尾。在确认信息：“‘防毒面具’效果双马尾版，因为我顺便做了这个。[[footnote]] ガスマスクツインテールver, せっかく作ったので。 [[/footnote]]”中选择“是”[[footnote]] はい [[/footnote]]之后，铁锈子的“防毒面具”效果将会保持双马尾外观——然而，当拉起面具时铁锈子的双马尾会消失[[footnote]] 因为身身身没有绘制双马尾版的拉起面具的铁锈子。 [[/footnote]]。
+ * //“按[[span class="keycap"]]Shift[[/span]]键的话会把防毒面具往旁边移一点。很难看清吧这个？（笑）耍什么帅啊。”——身身身//
++++ 推测
+* 戴着防毒面具时眼部玻璃片的颜色比拉起防毒面具之后的更加偏向红色，这支持了[[[dysmorphic-world|]]]中“推测”部分的理论——铁锈子的眼睛可能是红色的。
+
++++ 不同外观对比
+[[table]]
+[[row]]
+[[hcell style="width:250px"]]
+[[image Gas_Mask_Action.png width="72px"]]
+[[/hcell]]
+[[hcell style="width:250px"]]
+[[image Gas_Mask_Twintail_Version.png width="72px"]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell style="text-align:center"]]
+拉起防毒面具的铁锈子
+[[/cell]]
+[[cell style="text-align:center"]]
+戴着防毒面具的双马尾铁锈子
+[[/cell]]
+[[/row]]
+[[/table]]

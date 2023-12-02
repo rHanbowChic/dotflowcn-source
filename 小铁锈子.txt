@@ -1,0 +1,53 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+|| [[image Little_Sabitsuki.png size="small"]] ||
+||~ ^^雪原与幻想迷宫中的小铁锈子^^ ||
+[[/div]]
+**小铁锈子**是出现在[/snow-world 雪原]、[/illusionary-corridors 幻想迷宫]和[/back-ward 里病栋]的NPC，同时也是[[[0-16-event|Ver. 0.16]]]的主人公。她是[/rust-menu “锈蚀”菜单主题]的给予者。小铁锈子身形娇小，在里病栋、幻想迷宫和0.16事件中穿着与[/hospital-children 医院孩童]们相似的病号服，在雪原中则穿着铁锈子的衣服、戴着橙色围巾。
+
++++ 指南
+* [[[entrance|]]] > [[[utility-pole-world|]]] > [[[apartments|]]] > [[[snow-world|]]] [> [[[illusionary-corridors|]]] (> [[[back-ward|]]])]
+ * [[[snow-world|]]] (> [[[disposal|]]] > [[[deterioration|]]])
+
+雪原中的小铁锈子是隐身的，只有[[[whistle|吹哨]]]才能使之显形。拿出[[[iron-pipe|]]]或者[[[handgun|]]]会使她再度隐身。
+幻想迷宫中的小铁锈子站在[[[illusionary-corridors#toc4|幻想迷宫2]]]的西南角，全身被植物缠绕。这里的小铁锈子行走动画与孩童们一样简单。
+荒废中的小铁锈子被关在[[[deterioration#toc4|1号房间]]]的玻璃观察窗后。与玻璃窗互动会使她望着窗外摇头。
+里病栋的小铁锈子躺在名为[[[back-ward#toc4|锈]]]的房间中的床上。她的病情随[[[erosion-counter|]]]的上升而加重。
+* [0,50)时小铁锈子为健康状态，此时的她倚坐在床头，面色苍白但并无血迹。
+* [50,100)时小铁锈子为生病状态，此时她满身血污。
+* [100,+∞)时小铁锈子为重恙状态，这时她已经无力起身、不得不滑回被子中。血迹沾染了身周的床铺。
+0.16事件中的小铁锈子作为可操控人物在医院中游荡，并可获得[[[iron-pipe|]]]、[[[diving-helmet|潜水头盔]]]和[[[machine|机械义肢]]]。
+
++++ 备考
+* 由于一些问题，在用哨子指挥雪原中的小铁锈子时她不会正确地转向行走，而是直接向指挥方向平移。
+* 雪原中的小铁锈子在隐身状态下仍可以被杀死，且不会在重进雪原时复活。
+* [[[rust|]]]见不到雪原中的小铁锈子，因为她无法使用任何效果，包括哨子。
+* 0.16中的小铁锈子缺失了许多动作的点绘图，因此在向西走时面朝南部、在向东走时面朝北部，且在坐下时点绘会变回铁锈子。
+
++++ 推测
+* 小铁锈子不一定只是简单地代表着小时候的铁锈子。她既有可能象征着因病而体弱的铁锈子，也可能是铁锈子病情的直接体现。
+
++++ 病情
+[[table]]
+[[row]]
+[[hcell style="width:300px"]]
+[[image 0.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[image 50.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[image 100.png size="small"]]
+[[/hcell]]
+[[/row]]
+[[row]]
+[[cell style="text-align:center"]]
+健康
+[[/cell]]
+[[cell style="text-align:center"]]
+生病
+[[/cell]]
+[[cell style="text-align:center"]]
+重恙
+[[/cell]]
+[[/row]]
+[[/table]]

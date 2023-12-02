@@ -1,0 +1,26 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+|||| [[=image Slime_Effect.png width="72px"]] ||
+||||~ ^^变成史莱姆的铁锈子^^ ||
+[[/div]]
+**“史莱姆”**（スライム）效果可以将铁锈子变成一大团绿色史莱姆，按下行动键{{Shift}}会让铁锈子融化成一滩粘液，然后再恢复。该效果可以通过在废水湖泊中与一滩同为深绿色的粘液互动来获得。
+
++++ 指南
+* [[[Entrance|]]] > [[[Music World|]]] > [[[Connecting Tile Path|]]] > [[[White Room|]]] > [[[Blood Maze|]]] > [[[Insides|]]] > [[[Sewers|]]] > [[[Wastewater Lake|]]]
+
+按照[[[uniform#toc0|“制服”效果的指南部分]]]到达废水湖，而后按照以下路径前进：
+
+东，南，东，北，东，南，西。你的面前是不是有一摊史莱姆？按互动键{{Z}}！
+
++++ 视频指南
+[[embedvideo]]
+
+<iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280132812&page=18" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[[/embedvideo]]
+
++++ 备考
+* 在变成粘液时铁锈子并不会完全融化，而是剩下半个头部。
+ * 身身身曾在实况中表示对此感到遗憾。
+
++++ 推测
+* 从缺……
