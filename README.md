@@ -3,6 +3,8 @@
 
 源代码的作者可在[网站](http://dotflowcn.wikidot.com)[^AccessMethod]中找到，使用CC-BY-SA协议发布，参见`LICENSE`。
 
+![作者信息](./dotflowcn-about.png)
+
 一些wikidot系统页面和依赖wikidot模块的页面未被备份。
 
 ***
