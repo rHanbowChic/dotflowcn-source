@@ -9,6 +9,8 @@
 
 迁移至MediaWiki，需要注意的问题：
 * 有2个标题为“植物”的页面。
-* 2个页面，“侵蚀度”和：小铁锈子“，包含文件名相同的附件，但内容不同。
+* 2个页面，“侵蚀度”和“小铁锈子”，包含文件名相同的附件，但内容不同。
 
 [^AccessMethod]: 如果无法进入，可使用[FoggyPath](https://github.com/rHanbowChic/FoggyPath)。
+
+<sup><sub>*所以pbP到底遭遇了什么？*</sub></sup>
