@@ -5,7 +5,7 @@
 
 ![作者信息](./dotflowcn-about.png)
 
-此存储库的其余内容使用CC-BY-SA 4.0协议发布。
+除非另有声明，此存储库的其余内容使用CC-BY-SA 4.0协议发布。
 
 一些wikidot系统页面和依赖wikidot模块的页面未被备份。
 
