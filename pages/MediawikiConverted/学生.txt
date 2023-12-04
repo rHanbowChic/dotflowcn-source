@@ -1,0 +1,33 @@
+'''学生'''是出现在[/school 学校]、[/wastewater-lake 废水湖]、[/disposal 处置]和[/hospital 医院]的NPC。他们有黑色的头发，看不见五官且通常一动不动。前两个地点的学生们穿着西式校服，而后两个地点的学生们则穿着学兰。
+
+=== 指南 ===
+* [/entrance 入口] > [/music-world 音乐] > [/connect-pile-path 连瓦] > [/white-room 白色房间] > [/blood-maze 血液] > [/insides 内] > [/sewers 下水道] > [/wastewater-lake 废水湖] (> [/neighborhood 邻里] > [/school 学校])
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/snow-world 雪原] > [/disposal 处置]
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/cloud-world 云] > [/Reverse-Apartments 里公寓] > [/sugar-hole Sugar Hole] > [/hole 大厅] > [/hospital 医院]
+
+除了学校以外，在废水湖南部迷宫的西北角也有一个女学生。和她互动后[/sabitsuki 铁锈子]会被传送到学校。
+处置的一名学生，[/smile 笑颜]，有单独的角色特写。他的位置是西北角一块被油桶和浴缸隔绝的空间。
+医院的手术室也有学生出现，其中一名躺在手术床上。
+此外，在处置的北部和医院的手术室各有一具无头的学生尸体。
+
+=== 备考 ===
+* 在学校中，学生们会在铁锈子拿出[/iron-pipe 铁管]时开始四下逃散。
+* 直到ver. 0.193，穿着学兰的学生才开始出现在处置等地。
+
+=== 推测 ===
+* 西服学生们似乎都围绕着笑颜，而后者似乎参与到了学兰学生们的暴力团伙中。
+
+=== 外观 ===
+{|
+|-
+[[hcell style="width:50px"]]
+[[File: Student1.png]]
+[[/hcell]]
+[[hcell style="width:50px"]]
+[[File: Student2.png]]
+[[/hcell]]
+[[hcell style="width:50px"]]
+[[File: Student3.png]]
+[[/hcell]]
+
+|}

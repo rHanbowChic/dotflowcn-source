@@ -1,0 +1,45 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:250px; border:0;"]]
+{| class="wikitable"
+||| [[File: Neighborhood.png size="small"]] 
+|-
+|!! ^^邻里入口全景^^ 
+|}
+[[/div]]
+'''邻里'''（隣人）是[/smile 笑颜]与[/sister 妹妹]的居所。这张有限地图不包含任何效果。
+
+通过与[/wastewater-lake 废水湖]的一座路灯互动可以到达邻里的入口，此时玩家会出现在入口东侧的另一座路灯下。进入西侧的生锈通风口可以到达[/school 学校]，而穿过中间的索桥可以到达'''家'''（家），也就是笑颜兄妹的居所。
+
+'''家'''中并无任何互动点，笑颜兄妹是这片死寂中唯二的生者。当装备[/iron-pipe “铁管”]效果或使用[/handgun “手枪”]效果时，妹妹将会躲回笑颜身后，而用铁管击打笑颜会使之露出狰狞的笑容。在这之后便可以解锁[/smile-menu “笑颜”]菜单主题了。
+
+=== 指南 ===
+* [/entrance 入口] > [/music-world 音乐] > [/connecting-tile-path 连瓦] > [/white-room 白色房间] > [/blood-maze 血液] > [/insides 内] > [/sewers 下水道] > [/wastewater-lake 废水湖] > 邻里
+
+=== 连接 ===
+* [/wastewater-lake 废水湖]
+* [/school 学校]
+
+=== 备考 ===
+* 邻里有着与废水湖和[/hole 大厅]风格相似的破败景象。
+
+=== 推测 ===
+* 一些理论认为，铁锈子幼时因故与笑颜兄妹一同居住在这里。
+
+=== 家 ===
+{|
+|-
+[[hcell style="width:300px"]]
+[[File: Neighborhood_House.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: Siblings.png size="small"]]
+[[/hcell]]
+
+|-
+|
+家门口
+
+|
+笑颜兄妹
+
+
+|}

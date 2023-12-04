@@ -1,0 +1,28 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image Iron_Pipe_Effect.png width="72px"]] 
+|-
+|!! ^^拿着铁管的铁锈子^^ 
+|}
+[[/div]]
+'''“铁管”'''（てつパイプ）效果可以让铁锈子拿起一把铁管。她可以用它来攻击{{Shift}}绝大多数NPC，或者打开一些隐藏通道。这个效果可以在[[utility-pole-world|]]中获得。
+
+=== 指南 ===
+* [[entrance|]] > [[utility-pole-world|]]
+
+进入电线杆后向西南方向走，你会看见一支被几根电线杆围绕的、带血的铁管。与之互动即可得到“铁管”效果。
+
+=== 视频指南 ===
+
+[[html]]
+
+<iframe src="''player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280115279&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[[/html]]
+
+=== 备考 ===
+* 该效果对应《梦日记》中的“菜刀”效果。
+* 在无事可做时进行攻击{{Shift}}只会使铁锈子把铁管扛到肩上，再次按键则会使她放下铁管。
+** ''“对铁管有反应的事件还挺多的。能明白这孩子挺暴力的呢（笑）。”——身身身//
+=== 推测 ===
+* 从缺……

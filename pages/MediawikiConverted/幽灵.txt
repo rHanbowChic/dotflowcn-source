@@ -1,0 +1,37 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image Ghost_Effect.png width="72px"]] 
+|-
+|!! ^^变成幽灵的铁锈子^^ 
+|}
+[[/div]]
+
+'''“幽灵”'''（ゆうれい）效果可以让铁锈子变成一只幽灵。铁锈子可以通过隐身{{Shift}}来是NPC失去追踪，在躲避[[kaibutsu|]]时特别有用。然而，这个效果并不会让铁锈子消去形体，因此冲向被激怒的怪物仍然会导致铁锈子被传送到封闭空间中。
+这个效果可通过与[[flower-world|]]中的一个幽灵互动来获取。
+
+=== 指南 ===
+* [[entrance|]] > [[dysmorphic-world|]] > [[footprint-path|]] > [[plant-corridors|]] > [[flower-world|]]
+
+你可以照着[[gas-mask#toc0|“防毒面具”效果中的指南部分]]前往[[plant-corridors|]]。当你进入植物迷宫后，走进这片区域东侧的门，然后穿过单行道进入下一个门。
+
+向南走，进入第一个向东的路口并继续向东走，直到走进死胡同。进入此处的门，然后穿过单行道进入下一个门。接着你便进入了花。
+
+朝着西南（略偏南）的方向走，你会看见一组左右对称的植物与雕塑。与此处的幽灵女孩互动即可得到“幽灵”效果。
+
+=== 视频指南 ===
+
+[[html]]
+
+<iframe src="''player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280135418&page=20" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[[/html]]
+
+=== 备考 ===
+* 该效果对应《梦日记》中的“△头巾”效果。
+* 这个效果在进入[[corrupted-school|]]时非常有用。
+* 这个效果只能使NPC无法追踪，直接撞向敌对怪物仍然会导致传送。此外，[[[submarine-village-event|]]中的地狱生物们在追踪时无视此效果。
+** ''“你别过来呜呼呼呼……虽然是透明的但是我这边直接碰过去的话还是会被抓住的所以……（笑）赶紧离我远点！'' _
+''“退开退开……稍微会慢慢靠近的感觉呢，姑且还是记得一点的。”——身身身//
+
+=== 推测 ===
+* 从缺……

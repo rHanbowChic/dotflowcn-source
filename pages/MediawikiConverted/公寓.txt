@@ -1,0 +1,82 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Apartments_elevator.png width="300px"]] 
+|-
+|!! 公寓里的电梯  
+|}
+[[/div]]
+'''公寓'''（アパート），顾名思义，是一片类似老旧公寓的有限地图。该地图不包含任何效果。在旧版本中这里有数个NPC，但如今已被取消，只剩下[/jelly 果冻]和巨眼。
+
+从[/utility-pole-world 电线杆]中的一座小房子进入公寓，你会出现在电梯前，而这个电梯通向[/submarine-corridors 海底迷宫]第二部分的西北角；不进入电梯而是选择向东南走的话，你会来到公寓走廊。在旧版本中走廊有很多通向空房间的门，但现在只有两扇，而靠东的门打不开，靠西的门则通往一个小房间，里面有大量生长过度的藤蔓、一朵白百合以及一扇通向[/snow-world 雪原]的紫色门。
+
+沿着走廊继续东行则会到达楼梯间，这里只有一对上下行的楼梯。下楼会到达巨眼房。这里的墙上有一只巨眼涂鸦，与之互动不会发生任何事，但用[/iron-pipe 铁管]击打之会使其外观改变为鲜血淋漓半睁半闭的样子，而用[/mono-eye 独眼]效果眨眼时其会一起眨眼（除非被铁管打瞎）。当[/rust 锖]来到这个房间时，这里会出现一个[/fetuses 胎儿]。
+
+上楼则会到达另一个小房间，这里只有一些橙色与黑色的涂鸦、几摊血迹、一只果冻和另一截楼梯。果冻的行为与一般NPC一样，能被铁管杀死、被[/whistle 哨子]指挥、被[/handgun 手枪]定身。东侧的楼梯则通向屋顶，那里有一些黑色涂鸦、一些血迹和一个旋转的长方体。与之互动会被传送到[/cloud-world 云]。
+
+=== 指南 ===
+* [/entrance 入口] > [/utility-pole-world 电线杆] > 公寓
+* [/entrance 入口] > [/plant-world 植物] > [/submarine-world 海底世界] > [/submarine-city 海底都市] > [/submarine-corridors 海底迷宫] > 公寓
+
+=== 连接 ===
+* [/utility-pole-world 电线杆]
+* [/submarine-corridors 海底迷宫]
+* [/snow-world 雪原]
+* [/cloud-world 云]
+
+=== 备考 ===
+* 从电线杆进入公寓前需要先通过一段长长的下行金属楼梯。
+** ''“哦——这里是那个吧，有点像是《梦日记》中从床进入的那个世界。”——身身身''
+* 在ver 0.7以前，有一个棕发NPC在公寓里四处游荡，后被移除。
+* 在ver. 0.8与ver. 0.9，有一个NPC在某处床上睡觉，后被移除。
+* 在ver. 0.10，大部分的门被移除，只剩如今的两扇门。
+** 第二扇门原本也可进入，里面是[/flower-girl 花子]。她后来被移动到[/plant-corridors 植物迷宫]的植物部屋里去了。
+=== 推测 ===
+* 从缺……
+
+=== 景观 ===
+{|
+|-
+[[hcell style="width:300px"]]
+[[File: Apartments_flower.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: Apartments_hallway.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: Apartments_hallway_end.png size="small"]]
+[[/hcell]]
+
+|-
+|
+唯一一间可进入的公寓房，通向雪原
+
+|
+公寓走廊，只有一间能进
+
+|
+走廊尽头的楼梯间
+
+
+|-
+[[hcell style="width:300px"]]
+[[File: Apartments_eye.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: Apartments_stairway.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: Apartments_rooftop.png size="small"]]
+[[/hcell]]
+
+|-
+|
+楼下的小房间，有一只巨眼
+
+|
+上楼的楼道，有一只果冻
+
+|
+屋顶，通向云
+
+
+|}

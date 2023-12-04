@@ -1,0 +1,33 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image Handgun_Effect.png width="72px"]] 
+|-
+|!! ^^拿着手枪的铁锈子^^ 
+|}
+[[/div]]
+'''“手枪”'''（けんじゅう）效果会让铁锈子的左手中出现一把手枪，铁锈子将在行动键{{Shift}}被按下时闭紧眼睛向空中开火。这个效果不能用于攻击NPC，只能用于威慑它们。
+
+这个效果可以在[/hole 大厅]中通过与垃圾桶交互来获取。
+
+=== 指南 ===
+* [[Entrance|]] > [[Utility Pole World|]] > [[Apartments|]] > [[Cloud World|]] > [[Reverse Apartments|]] > [[Sugar Hole|]] > [[Hole|]] > [[Town|]]
+* [[Entrance|]] > [[Utility Pole World|]] > [[Apartments|]] > [[Snow World|]] > [[Illusionary Corridors|]] > [[Back Ward|]] > [[Hospital|]] > [[Hole|]] > [[Town|]]
+
+从医院门口向西走，可以看到北面有一条宽阔的小巷。走入小巷，你需要继续向西走，在第一个分叉路口向北走，然后继续向西，在第二个分岔路口向北走，接下来顺着路向东走，与左手边的垃圾桶互动即可得到该效果。
+
+=== 视频指南 ===
+[[embedvideo]]
+
+<iframe src="''player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280133890&page=19" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[[/embedvideo]]
+
+=== 备考 ===
+* 当枪声响起时，NPC们会开始远离铁锈子。
+* [[Sister|]]会在枪响时躲在[[smile|]]的身后。
+* 铁锈子使用的是五发容量的左轮手枪，每射击五次会装填一轮。
+** ''“我记得我是决定了这个手枪的型号的。好像是新南部M60转轮手枪。”——身身身//
+
+=== 推测 ===
+* 由于该效果是在医院附近的垃圾箱里获得的，这可能意味着铁锈子曾住过的医院里发生过一起谋杀案。
+* 铁锈子紧闭双眼的动作既可能代表了她对枪械这种随意夺取生命的高效武器的畏惧或不情愿（这解释了为什么铁锈子始终不用之枪杀），也可能只是害怕枪响，或是引发了不好的回忆。

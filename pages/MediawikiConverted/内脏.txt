@@ -1,0 +1,28 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image Viscera_Effect.png width="72px"]] 
+|-
+|!! ^^流出内脏的铁锈子^^ 
+|}
+[[/div]]
+'''“内脏”'''（ないぞう）效果会让铁锈子的内脏破腹流出。就像其他许多效果一样，该效果只是装饰性效果，并不会给铁锈子某种附加能力。铁锈子可以尝试收拾自己的内脏{{Shift}}，但这无济于事。
+
+这个效果可以在[[Womb Maze|]]中通过与[[onigo|]]的尸体互动获得。
+
+=== 指南 ===
+* [[Entrance|]] > [[Music World|]] > [[Connecting Tile Path|]] > [[White Room|]] > [[Blood Maze|]] > [[Insides|]] > [[Flesh Walls|]] > [[Womb Maze|]]
+
+进入血肉高墙后向西走，直到看到第一个分岔路口为止，然后向北走，进入第二个区域并继续向北走，在第二个分岔路口向西走并进入墙上的洞，接下来继续直直向南走，在第三个分岔路口选择东南方向的路，从两个有嘴的雕像中间穿过并传送，进入该区域后从雕像下方绕过去并向北走，走过形似白色气球的血洞雕像后向东走，从两个长着小角的红色雕像中间穿过去，而后直直的向北走，继续进入墙上的洞后向北走，直到你看到鬼子的尸体。
+
+=== 视频指南 ===
+[[embedvideo]]
+
+<iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280139101&page=23" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[[/embedvideo]]
+
+=== 备考 ===
+* 从缺……
+
+=== 推测 ===
+* 从缺……

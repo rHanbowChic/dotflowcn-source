@@ -1,0 +1,26 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: flyingevent.png width="300px"]] 
+|-
+|!! ^^“有彩虹蝴蝶在一起飞哦！”^^ 
+|}
+[[/div]]
+在[/rainbow-maze 彩虹]的虹之丘上乘着[/broom 扫帚]飞出悬崖可以触发'''“翱翔”'''事件。
+
+随着音乐改变，[/sabitsuki 铁锈子]乘着扫帚缓缓起飞，背景是靓丽的彩虹色，彩虹蝴蝶从身边掠过。用方向键可以控制铁锈子的位置，但也可以静静地欣赏铁锈子无忧无虑的时刻。
+
+按下<span style="color:white">[[span class="keycap"]]X[[/span]]</span>即可结束飞行，并回到出发点。
+
+=== 指南 ===
+* [/entrance 入口] > [/dysmorphic-world 畸形] > [/footprint-path 足迹] > [/rainbow-maze 彩虹]
+
+请移步[/rainbow-maze#toc4 彩虹]页面以获得关于如何到达虹之丘的详细描述。
+
+=== 备考 ===
+* 这是整个游戏氛围最快乐的事件。
+* 飞经最小的蝴蝶（被[/lol 身身身]戏称为“果蝇”）时它们会跟随铁锈子的移动轨迹。
+** 由于技术难题，蝴蝶在跟随时无法显示飞行动画。
+* 飞行期间会随机出现“蝴蝶大军”，其数量多到足以占满整个屏幕。
+
+=== 推测 ===
+* 从缺……

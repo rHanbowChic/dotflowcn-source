@@ -1,0 +1,58 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:100px; border:0;"]]
+{| class="wikitable"
+||| [[File: Smile.png width="64px"]] 
+|-
+|!! ^^笑颜^^ 
+|}
+[[/div]]
+'''笑颜'''（smile）是出现在[[neighborhood|]]、[[school|]]、[[corrupted-school|]]和[[disposal|]]的NPC，[[tattoo|]]与[[smile-menu|]]的给予者。这名黑发少年在各个地点有不同的外观。
+
+=== 指南 ===
+* [[entrance|]] > [[music-world|]] > [[connecting-tile-path|]] > [[white-room|]] > [[blood-maze|]] > [[insides|]] > [[sewers|]] > [[wastewater-lake|]] > [[neighborhood|]] (> [[school|]])
+* [[entrance|]] > [[dysmorphic-world|]]
+* [[entrance|]] > [[utility-pole-world|]] > [[apartments|]] > [[snow-world|]] > [[disposal|]]
+
+笑颜和[[sister|]]一同居住在邻里北面的家中。妹妹总是躲在笑颜身后，并会在[[handgun|鸣枪]]警示或者拿出[[iron-pipe|武器]]时紧紧缩在笑颜身后。用铁管击打笑颜不仅不会杀死他，还会使他拿出羊角锤、吐着长舌狞笑，并给予[[smile-menu|]]。这之后[[sabitsuki|]]将不能再攻击笑颜，但收起铁管会使笑颜恢复原样，再拿出则会继续触发狞笑。
+
+在学校的天台、二楼东侧教室一、一楼东侧教室二中分别有三个不同的笑颜出现。天台上站着体型巨大、没有刺青和五官的笑颜，和他互动可以得到“刺青”效果；东侧教室一中有被桌椅包围的笑颜，手上拿着沾血的羊角锤。即使拿出铁管他也不会笑；东侧教室二中站着被桌椅和六名[[students|]]围绕着的笑颜，会在铁锈子拿出铁管时露出笑容并掏出带血的羊角锤。
+
+笑颜还出现在腐坏学校尽头的地下室中。到达地下室后铁锈子会被他杀死，而[[rust|]]则会变成怪物杀死他。
+
+在处置主地图西北方的一处封闭空间里也有笑颜出现。这里的笑颜没有纹身，校服也换成了学兰。他站在另两名学兰学生和一名[[gas-mask-maids|]]身后，被浴缸和油桶阻挡着而不可触及。在浴缸后开枪会使他回头观望铁锈子，再与障碍物互动即可看到笑颜的面部特写。锖看到的笑颜脸上有十字刺青。
+
+=== 备考 ===
+* 在ver 0.18之前，用铁管击打笑颜会使他对铁锈子放话。下面是他的部分言语：
+** “You're a sick girl, but I'll see you again.”
+** “You're a strange girl, but I'll see you again.”
+** “You're safe here, but I'll see you again.”
+** “You sing girl, potassium onion.﻿”
+* 笑颜兄妹的住所同样名为“邻里”。
+
+=== 推测 ===
+* 笑颜很有可能是铁锈子的发小。
+* 有理论认为笑颜兄妹可能与铁锈子有相同的疾病。
+* 铁锈子可能跟随笑颜进行过犯罪行为。
+
+=== 艺作 ===
+{|
+|-
+[[hcell style="width:250px"]]
+[[File: Oniisan.jpg size="small"]]
+[[/hcell]]
+[[hcell style="width:250px"]]
+[[File: Smile-closeup.png size="small"]]
+[[/hcell]]
+[[hcell style="width:250px"]]
+[[File: Smile-closeup2.png size="small"]]
+[[/hcell]]
+
+|-
+|
+Oniisan，作者：[[lol|]]
+
+|
+
+|
+
+
+|}

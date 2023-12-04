@@ -1,0 +1,28 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[=image Whistle_Effect.png width="72px"]] 
+|-
+|!! ^^叼着哨子的铁锈子^^ 
+|}
+[[/div]]
+'''“哨子”'''（ホイッスル）效果可以让铁锈子叼起一只哨子，并通过吹哨{{Shift}}控制部分NPC的行动。当铁锈子吹响哨子时，所有可移动的NPC都会向铁锈子面朝的方向移动。
+
+该效果可在[[flesh-walls|]]中找到。你并不需要用[[iron-pipe|]]杀死门前的[[onigo|]]，因为她实际上并没有挡住门——只需从她身后绕过即可。
+=== 指南 ===
+* [[entrance|]] > [[music-world|]] > [[connecting-tile-path|]] > [[white-room|]] > [[blood-maze|]] > [[insides|]] > [[flesh-walls|]]
+
+在跟随[[uniform#toc0|“制服”效果的指南]]到达“内”之后，你需要向东走直到看见一架深入地底的梯子——不要进入该入口。从该入口西侧一格的位置开始直直地向北走，你最终将会进入一扇门并来到腔内。
+
+进入腔内后向西走，直到你看见一扇被鬼子挡住的门。绕过她进入门后，你会看见地上有一只哨子。与之互动即可得到“哨子”效果。
+
+=== 视频指南 ===
+[[embedvideo]]
+<iframe src="''player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280130596&page=16" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[[/embedvideo]]
+
+=== 备考 ===
+* 在受哨子影响而移动时，中立的[[kaibutsu|]]的外表会变成敌对怪物的样子，而[[onigo|]]看起来就如同即将衰亡一般。
+* 哨子似乎吹不出真正的声音。
+** ''“至于哨子吹出来没声音是……我是想录音，但是在家里吹的话会被邻居骂，就一直拖延了（笑）。虽然说也可以用免费素材的音效啦。”——身身身//
+=== 推测 ===
+* 从缺……

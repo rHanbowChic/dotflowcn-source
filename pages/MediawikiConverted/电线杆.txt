@@ -1,0 +1,26 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Utility_Pole_World_Map.png size="small"]] 
+|-
+|!! ^^电线杆全景^^ 
+|}
+[[/div]]
+'''电线杆'''（電柱）是一张空旷而无威胁的无限地图。[/iron-pipe “铁管”]效果可以在这里找到。
+
+该地图平坦、黑暗而空旷，遍布着许多完好或损毁的电线杆，以及一些不断旋转的星空样球体。这些球体可用“铁管”杀死，且会在吹响[/whistle “哨子”]时停止转动、在使用[/handgun “手枪”]时飞速逃离。
+
+此处唯一的门通往[/entrance 入口]，而东南侧的小房子通往[/apartment 公寓]。
+
+=== 指南 ===
+* [/entrance 入口] > 电线杆
+
+进入入口后向西走即可。
+=== 连接 ===
+* [/entrance 入口]
+* [/apartment 公寓]
+
+=== 备考 ===
+* 从缺……
+
+=== 推测 ===
+* 从缺……

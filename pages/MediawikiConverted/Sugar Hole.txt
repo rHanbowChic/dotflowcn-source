@@ -1,0 +1,37 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Sugarhole.png size="small"]] 
+|-
+|!! ^^Sugar Hole，吧台全景^^ 
+|-
+||| [[File: Sugarholeback.png size="small"]] 
+|-
+|!! ^^Sugar Hole，后厅一隅^^ 
+|}
+[[/div]]
+'''Sugar Hole'''是一家小酒吧，铁锈子可以在这里向[/gas-mask-maid 防毒面具女仆]点些饮料和小蛋糕。
+
+吧台边总是坐着一个黑衣男子，用[/iron-pipe 铁管]击杀之可能会获得[/sugar-menu 一些日元]。有时，[/sugar-hole-kaibutsu 酒馆怪物]会带着他的铁管出现于此静享饮品，与之战斗可能会引发[/sugar-hole-kaibutsu#toc3 不愉快的结果]。
+
+通过[/cat “猫”效果]，铁锈子将得以进入吧台，到达后厅。在后厅中有几张圆桌、另一名女仆、一个矮小的不明生物和[/cleaner-world 一张壁画]，除此之外便无他物。
+
+=== 指南 ===
+* [/Entrance 入口] > [/Music-World 音乐] > [/Connecting-Tile-Path 连瓦] > [/White-Room 白色房间] > [/Blood-Maze 血液] > [/Insides 内] > [/Sewers 下水道] > Sugar Hole（吧台）
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/cloud-world 云] > [/Reverse-Apartments 里公寓] > Sugar Hole（后厅）
+
+=== 连接 ===
+* [/sewers 下水道]
+* [/reverse-apartment 里公寓]
+* [/cleaner-world 扫除]
+
+=== 备考 ===
+* 价目表：
+** 饮料 - 100円
+** 饮料+小蛋糕 - 300円
+* 花费900円享用三次套餐后可以得到[/sugar-menu “糖”菜单主题]。
+* 花费3000円享用十份套餐后可以触发[/sugar-float-days sugar float days]事件。
+* 只有穿过Sugar Hole才能到达下水道对岸。
+** ''“这是个什么位置（笑）……还真是在一个不得了的地方开店啊。因为是梦世界倒还没啥。”——身身身''
+
+=== 推测 ===
+* 有理论认为这里是现实中的铁锈子逃出医院后所前往的第一个地方。

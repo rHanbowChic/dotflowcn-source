@@ -1,0 +1,26 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[=image Watering_Can_Effect.png width="72px"]] 
+|-
+|!! ^^手持浇花壶的铁锈子^^ 
+|}
+[[/div]]
+'''“喷壶”'''（じょうろ）效果会使铁锈子手中出现一只浇花壶，并能借此创造一场降雨{{Shift}}。这个效果可以在[[plant-world|]]中获得。
+
+=== 指南 ===
+* [[entrance|]] > [[plant-world|]]
+
+朝西南方走直到看见一组左右对称的植物与雕塑。与此处的幽灵女孩互动即可得到“喷壶”效果。
+
+=== 视频指南 ===
+[[html]]
+
+<iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280127858&page=13" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[[/html]]
+=== 备考 ===
+* 该效果对应《梦日记》中的“雨伞”效果。
+* 降雨效果共有三个等级：小雨，阵雨，暴雨。
+
+=== 推测 ===
+* 从缺……

@@ -1,0 +1,18 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:100px; border:0;"]]
+{| class="wikitable"
+||| [[=image Takibi-san.png width="64px"]] 
+|-
+|!! ^^篝火桑^^ 
+|}
+[[/div]]
+'''篝火桑'''（焚き火さん）是于ver. 0.18开始出现在[/hole 大厅]的NPC。她是一名有着粉色长发、戴着黑色高礼帽、穿着黑色裙子的女孩，对[/watering-can 喷壶]以外的效果没有任何反应。如果用[/iron-pipe 铁管]杀死篝火桑，那么她将不会在重进房间时重生。
+
+=== 指南 ===
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/cloud-world 云] > [/Reverse-Apartments 里公寓] > [/sugar-hole Sugar Hole] > [/hole 大厅]
+篝火桑坐在大厅的篝火房间正中央的篝火边。只有变成[/cat 猫]才可以钻过大厅的水管下方前往篝火。
+
+=== 备考 ===
+* 如果用“喷壶”效果浇灭她的篝火，那么篝火桑会在雨停后重新将其点燃。
+
+=== 推测 ===
+* 从缺……

@@ -1,0 +1,84 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Snow_World_Map.png size="small"]] 
+|-
+|!! ^^雪原一隅^^ 
+|}
+[[/div]]
+'''雪原'''（雪）是一张可从[/apartment 公寓]进入的无限地图，是[/dress “连衣裙”]效果的所在地。
+
+'''雪原'''中的一切事物都被厚厚的积雪所覆盖，几座老式工厂烟囱矗立其间，其中最大的四座烟囱可以进入。
+
+在公寓入口门的南边有三座可进入的烟囱。第一座烟囱是空的，第三座只在[/rust 锖]造访时包含一只[/fetuses 胎儿]，而第二座则有一具穿着连衣裙的服装店假人，与之互动可以得到“连衣裙”效果。在这三座烟囱的东北处，有一个锈迹斑斑的矩形通风口，那是荒废的入口。
+
+在三个烟囱略靠西北处的地面上有隐身的[/little-sabitsuki 小铁锈子]在四处游荡，你可以通过[/whistle 吹哨]使之显形。装备[/iron-pipe “铁管”]效果或[/handgun 开枪]会使小铁锈子再次隐形，但你仍然可以通过脚印来辨别其位置并选择杀死她。在这之后小铁锈子不会再复活。
+
+第四个可进入的烟囱坐落于公寓入口的西北侧，其中包含一朵随处可见的白百合。与之互动会被传送到'''植物烟囱'''（植物煙突），离开植物烟囱后会进入'''幻想地带'''（幻想地帯）。这里看上去就像被疯长的植物覆盖的雪原，面积大大缩小且地面积雪量减少，但下雪更猛烈。通向[/illusionary-corridors 幻想迷宫]的入口可以在此处找到。
+
+=== 指南 ===
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > 雪原
+进入公寓走廊上的第一间房间，然后进入其内的一扇紫色铁门即可到达雪原。
+
+=== 连接 ===
+* [/apartments 公寓]
+* [/disposal 荒废]
+* [/illusionary-corridors 幻想迷宫]
+
+=== 备考 ===
+* 当[/sabitsuki 铁锈子]走过雪地时会留下一排迅速消逝的脚印，呼吸时则会吐出白雾。
+** 在[/broom “扫帚”]和[/ghost “幽灵”]效果下，铁锈子不会在雪地上留下脚印。
+** 然而，在[/cat “猫”]、[/daruma “不倒翁”]、[/slime “史莱姆”]和[/plant “植物”]效果下铁锈子仍会留下正常的人类脚印。
+*** ''“有好好加上去的足迹和仔细看还能看到吐出来的白气是得分点（笑）。都是事到如今了。”——身身身''
+* 在ver 0.193中，通往荒废的入口无法通行。
+
+=== 推测 ===
+* 雪原可能是铁锈子童年时的居住地（或其附近地点），而此处的工厂废气可能是导致铁锈子生病的主要原因。
+** “雪原能从公寓进入”和“小铁锈子的灵魂游荡于此”这两个事实都证明了这个观点。
+
+=== 所有区域一览 ===
+{|
+|-
+[[hcell style="width:300px" colspan="2"]]
+[[File: Chimney_1.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px" colspan="2"]]
+[[File: Chimney_2-3.png size="small"]]
+[[/hcell]]
+
+|-
+|
+第三个烟囱内部
+
+|
+第一个烟囱内部
+
+
+
+|-
+[[hcell style="text-align:center" colspan="4"]]
+[[File: Illusionary_Area_Map.png size="small"]]
+[[/hcell]]
+
+|-
+|
+幻想地带
+
+
+
+|-
+[[hcell style="width:300px" colspan="2"]]
+[[File: Chimney_4.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px" colspan="2"]]
+[[File: Plant_Chimney.png size="small"]]
+[[/hcell]]
+
+|-
+|
+第四个烟囱内部
+
+|
+植物烟囱
+
+
+|}

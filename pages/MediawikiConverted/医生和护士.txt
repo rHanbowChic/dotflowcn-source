@@ -1,0 +1,27 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[File: doctor.png width="200px"]] 
+|-
+|!! ^^[/rust-ending 锈蚀结局]中的医生^^ 
+|-
+||| [[=image nurse.png width="100px"]] 
+|-
+|!! ^^护士^^ 
+|}
+[[/div]]
+'''医生'''和'''护士'''是出现在[/hospital 医院]的NPC。同时，护士也在[/plant-corridors 植物迷宫]中出现。
+
+=== 指南 ===
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/cloud-world 云] > [/Reverse-Apartments 里公寓] > [/sugar-hole Sugar Hole] > [/hole 大厅] > [/hospital 医院]
+* [/entrance 入口] > [/dysmorphic-world 畸形] > [/footprint-path 足迹] > [/plant-corridors 植物迷宫]
+
+在医院内，医生和护士一起出现在[/hospital#toc4 医者]中。
+在植物迷宫中，护士单独出现在[/plant-corridors#toc4 花子]中。
+
+=== 备考 ===
+* 在ver 0.9中，医生单独出现在医院中，被桌子和陈列柜围绕着。
+* 击杀医生后，他的眼镜会留在他死去的地方。
+* 医院中的护士不会在重进房间时重生，但植物迷宫中的护士会。
+
+=== 推测 ===
+* 现实中的铁锈子可能由他们治疗。

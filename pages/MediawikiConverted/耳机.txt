@@ -1,0 +1,28 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image Headphones_Effect.png width="72px"]] 
+|-
+|!! ^^戴上耳机后的铁锈子^^ 
+|}
+[[/div]]
+'''“耳机”'''（ヘッドフォン）效果可以让铁锈子戴上一副橙色音乐耳机。这个效果可以通过与[[music-world|]]的[[neon-world-creatures|DJ]]互动来获取。按下行动键{{Shift}}后，耳机中会传出一段三个音符的小调。
+
+=== 指南 ===
+* [[entrance|]] > [[music-world|]]
+
+进入音乐后向北略偏东走，直到你看见一个画有双色音符的红色正方体。朝着那个方向走并与DJ互动即可得到“耳机”效果。
+
+=== 视频指南 ===
+[[html]]
+
+<iframe src="''player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280121458&page=7" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[[/html]]
+
+=== 备考 ===
+* 耳机中的音乐共有四段，顺序出现。
+** ''“感觉这个耳机的构造还蛮不可思议的（笑）。”——身身身//
+* 该效果对应《梦日记》中的“笛子”效果。
+
+=== 推测 ===
+* 或许铁锈子喜欢音乐——然而，她房间里唯一的音乐是[[shinsoku-neko|]]的BGM。

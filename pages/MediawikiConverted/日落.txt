@@ -1,0 +1,63 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Sunset.png size="small"]] 
+|-
+|!! ^^日落地图^^ 
+|}
+[[/div]]
+ '''日落''' (落日) 是一个有着满地的水坑和大量的电线杆的纯白色的世界。医院里的孩子们在这个世界游行着，有六个孩子在[/Onigo 鬼子]的尸体旁边站立着。当[/Rust 锖]造访此处时会有四只[/Fetuses 胎儿]。
+
+玩家可以通过[/Illusionary-Corridors 幻想迷宫]到达此处，并可以从纯黑色的门返回。黑白色的电梯则通往过去的[/Back-Ward 里病栋] (裏病棟過去)。
+
+更准确地说，这里是 '''游行病栋'''的过去版本。这里灯火通明，没有死去的孩子，但是活着的孩子们看起来并不健康。 当锖造访此处时还会有两只胎儿。现在的游行病栋中[/Little-Sabitsuki 小铁锈子]居住的房间在这里是一个空房间(空室) ，而且可以爬上这个房间的床。
+
+然而，这里还有另外一个房间。入口与现在的游行病栋的红色洞口是同一个地方。这个房间里有一个单人床，被一个孕妇 (妊婦)所使用。
+
+这个世界不包含任何效果。
+
+=== 指南 ===
+* [/entrance 入口] > [/plant-world 植物] > [/submarine-world 海底世界] > [/submarine-city 海底都市] > [/submarine-corridors 海底迷宫] > [/Orange-Maze 橙色迷宫]> [/Wetland 丛生] > 日落
+* [/entrance 入口]  > [/Music-World 音乐] > [/Connecting-Tile-Path 连瓦]> [/White-Room 白色房间] > [/Blood-Maze 血液] > [/Insides 内] > [/Sewers 下水道] > [/Orange-Maze 橙色迷宫] > [/Wetland 丛生] > 日落
+* [/entrance 入口]  > [/utility-pole-world 电线杆] > [/Apartments 公寓] > [/snow-world 雪原] > [/Illusionary-Corridors 幻想迷宫] > [/Plant-Corridors 植物迷宫] > [/Flower-World 花] > [/Wetland 丛生] > 日落
+* [/entrance 入口]  > [/utility-pole-world 电线杆] > [/Apartments 公寓] > [/snow-world 雪原] > [/Illusionary-Corridors 幻想迷宫] > 日落
+* [/entrance 入口]  > [/utility-pole-world 电线杆] > [/Apartments 公寓] > [/Cloud-World 云] > [/Reverse-Apartments 里公寓] > [/Sugar-Hole Sugar Hole] > [/Hole 洞]> [/Hospital 医院] > [/Back-Ward 里病栋] > [/Illusionary-Corridors 幻想迷宫] > 日落
+
+=== 连接 ===
+* [/Illusionary-Corridors 幻想迷宫]
+
+=== 备考 ===
+* 所有的孩子只走一条直线。
+** 如果有障碍物挡住了他们的路，他们就会停下来：电线杆，电梯，或者[/Sabitsuki 铁锈子]。
+** 他们对[/Whistle 哨子]或[/Handgun 手枪]也没有反应，但可以被[/Iron-Pipe 铁管]杀死。
+* 就像在游行病栋一样，大厅里不时能听到一阵怪物的笑声。
+
+=== 推测 ===
+* 因为游行病栋里的血淋淋的洞会将锖传送到[/Blood,Pus,Rust 血，脓，锖]事件房间，继而导致[/Childbirth 分娩]事件的一个版本，一个巨大的鬼子的腹部被剖开，这可能意味着孕妇和这个被剖开的女人是同一个人。
+* 有可能房间里的孕妇还在现在的游行病栋里，但因为她与对于铁锈子来说过于惊恐的事情联系了在一起，所以铁锈子在flow中压抑了她的存在。
+* 游行包含游行的人们，所以也许就是这个地方被命名为游行病栋的原因。
+
+=== 景观 ===
+{|
+|-
+[[hcell style="width:300px"]]
+[[File: Back_Ward_Past.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: Vacant_room.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: Pregnant_woman.png size="small"]]
+[[/hcell]]
+
+|-
+|
+里病栋 (过去)
+
+|
+空房间
+
+|
+孕妇
+
+
+|}

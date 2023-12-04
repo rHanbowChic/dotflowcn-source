@@ -1,0 +1,39 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Bar_Kaibutsu.png size="small"]] 
+|-
+
+|}
+'''“酒吧怪物”'''（sugarhole:怪物）是一名出现在[/sugar-hole Sugar Hole]的特殊[/kaibutsu 怪物]。
+
+每次进入flow状态都会触发一次随机取值，以决定这名怪物的出现与否；若怪物未出现，则只有重新进入flow状态才能再次触发取值。另外，当[/rust 锖]造访Sugar Hole时酒吧怪物不会出现。
+
+这名怪物只会静静地坐在吧台旁，漫不经心地啜饮自己的饮料，不对任何效果做出反应，身边放着一根带血的铁管。然而，当[/sabitsuki 铁锈子]装备上[/iron-pipe 铁管]时，他将停止啜饮；若攻击他，则他会在铁锈子击中前抄起铁管还击。这之后酒吧怪物会发出尖锐的笑声并继续击打铁锈子，屏幕也将慢慢变黑。而后一阵拖行声响起，铁锈子血迹斑驳的尸体被抛弃在黑暗中。随着一旁的卷帘门缓缓关上，一切陷入黑暗，而后flow状态结束，铁锈子在[/sabitsuki-s-room “自己的房间”]中醒来。
+
+每次触发这个事件都会增加15点[/erosion-counter 侵蚀度]。
+
+=== 指南 ===
+* [/entrance 入口] > [/dysmorphic-world 异形世界] > [/footprint-path 足迹之径] > [/rainbow-maze 彩虹迷宫] > [/psychedelic-town 迷幻街道] > [/sewers 下水道] > [/sugar-hole Sugar Hole]
+* [/entrance 入口]] > [/music-world 音乐] > [/connecting-tile-path 连瓦] > [/white-room 白色房间] > [/blood-maze 血液] > [/insides 内] > [/sewers 下水道] > [/sugar-hole Sugar Hole]
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/cloud-world 云] > [/Reverse-Apartments 里公寓] > [/sugar-hole Sugar Hole]
+
+=== 备考 ===
+* 当酒吧怪物不在的时候，他身下的凳子也会一起消失。
+* 酒吧怪物的名字来源于控制其喝饮料动作的变量。
+
+=== 推测 ===
+* 最后一幕可能象征着铁锈子被Sugar Hole的[/gas-mask-maids 防毒面具女仆]或酒吧怪物抛弃在外。
+
+=== 最后一幕 ===
+{|
+|-
+[[hcell style="width:300px"]]
+[[File: thrown_sabitsuki.png size="small"]]
+[[/hcell]]
+
+|-
+|
+铁锈子支离破碎的尸体被抛弃在外
+
+
+|}

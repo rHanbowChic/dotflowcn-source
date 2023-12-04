@@ -1,0 +1,24 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: sugar_float_days.png size="small"]] 
+|-
+|!! ^^sugar float days中的一幕^^ 
+|}
+[[/div]]
+'''sugar float days'''事件发生在[/Reverse-Apartments 里公寓]。
+
+上楼之后会来到一个简笔素描风的灰白色房间，正中央有一张茶桌，铁锈子和[/sugar-girl 茶点]坐在桌边品茶。突然间一切消失，只剩下空荡荡的房间和刚进门的铁锈子，事件结束。在这之后铁锈子可以自由探索房间，但其实这里什么都没有。
+
+=== 指南 ===
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/cloud-world 云] > [/Reverse-Apartments 里公寓]
+
+在[/sugar-hole Sugar Hole]吃掉十块蛋糕后重新进入一次flow，而后前往里公寓，与电梯旁的[/gas-mask-maids 防毒面具女仆]互动以移除楼梯口的路障，然后上楼。
+
+=== 备考 ===
+* “sugar float days”是游戏文件中该事件所在房间的名称。
+* 由于某些bug，在进入事件房间后无法返回，只能选择醒来或使用[/arms “手臂”]效果离开。
+* 在[/deterioration 荒废]的1号房间中有相似的场景，但铁锈子并不在场，取而代之的是站在一边的[/little-sabitsuki 小铁锈子]。
+
+=== 推测 ===
+* 这里可能象征着铁锈子的童年，或者就是铁锈子小时候的家；而茶点则可能是铁锈子的朋友或亲戚。
+* sugar float days的触发条件可能代表着铁锈子通过不断吃下曾经与友人一同享用的小蛋糕来尝试回忆、回到当初的美好时光。

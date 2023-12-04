@@ -1,0 +1,28 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Insides.png size="small"]] 
+|-
+|!! ^^内全景^^ 
+|}
+[[/div]]
+'''内'''（内）是一张有限地图。这里没有任何效果。从[/sewers 下水道]和[/blood-maze 血液]都可以到达这里，但不能从此地返回血液。
+
+东南角的井口通向下水道，井口向西一格的正北方有个嘴型入口，通向[/flesh-wall 腔内]。
+
+=== 指南 ===
+* [/entrance 入口] > [/music-world 音乐] > [/connecting-tile-path 连瓦] > [/white-room 白色房间] > [/blood-maze 血液] > 内
+* [/entrance 入口] > [/dysmorphic-World 畸形] > [/footprint-Path 足迹] > [/rainbow-maze 彩虹] > [/psychedelic-town 迷幻街道] > [/sewers 下水道] > 内
+* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/cloud-world 云] >[/Reverse-Apartments 里公寓]> [/sugar-hole Sugar Hole] > [/sewers 下水道] > 内
+
+=== 连接 ===
+* [/sewers 下水道]
+* [/flesh-walls 腔内]
+
+=== 备考 ===
+* 该地图的背景图片名为“red.png”。
+** ''“哦——手绘的地图呢。线条好杂乱啊。”——身身身''
+
+=== 推测 ===
+* 这里可能代表着铁锈子现今的可怖状态。
+* 考虑到腔内的入口是一张嘴，腔内可能代表着身体的内部。
+** ''“这次就往这边走吧，进入这个生物的体内。”——身身身''

@@ -1,0 +1,80 @@
+'''“侵蚀度”'''（侵食度）是铁锈子创伤程度的直观体现。许多事件都能改变侵蚀度。
+
+随着侵蚀度的上升，[/sabitsuki-s-room “自己的房间”]会逐渐被血迹覆盖，而[/little-sabitsuki 小铁锈子]的病情也会逐渐恶化。
+* 从50点开始，小铁锈子将全身遍布血迹。
+* 从100点开始，小铁锈子将无力起身。
+* 当侵蚀度大于100点时，与之互动即可获得[/rust-menu “锈蚀”菜单主题]。
+当侵蚀度大于250点时，[/erosion-event 侵蚀]事件将会被触发。
+
+侵蚀度可以被降低，并且能使“自己的房间”中的血迹减少[[footnote]] 除了键盘上的血迹。 [[/footnote]]、使小铁锈子恢复健康。
+
+=== 增加侵蚀度 ===
+* [/blood-pus-rust 血、脓、锈]事件会在首次触发时增加50点侵蚀度，而后每次增加10点。
+* [/childbirth 分娩]事件会在首次触发时增加50点侵蚀度，而后每次增加10点。
+* [/sugar-hole-kaibutsu 酒吧怪物]事件会在会在每次触发时增加10点侵蚀度。
+* 被[/kaibutsu 怪物]抓住可能会增加3或10点侵蚀度：
+** 被[/cloud-world 云]的怪物抓住会增加3点侵蚀度；
+** 被[/orange-maze 橙色迷宫]的怪物抓住会增加10侵蚀度；
+** 被[/cleaner-world 扫除]的怪物抓住会增加10侵蚀度；
+** 被[/womb-maze-kaibutsu 胎内迷宫怪物]和腐坏无垢的怪物抓住都会增加10侵蚀度；
+** 被[/shinsoku-kaibutsu 神速怪物]抓住会增加3点侵蚀度。
+* 被[/fetuses 胎儿]抓住会增加3点侵蚀度。
+** 当锖被[/corrupted-scholl 腐坏学校]的胎儿抓住时并不会增加侵蚀度。
+
+=== 减少侵蚀度 ===
+* 在[/sugar-hole Sugar Hole]用餐可以减少侵蚀度。
+** 100円 > -5点；
+** 200円 > -10点；
+** 300円 > -20点。
+* 装备[/diving-helmet 潜水服]与潜水子互动可以减少10点侵蚀度。
+
+=== 推测 ===
+* 当侵蚀度大于180点时，电脑边会出现用红色软管连接着的三个不明装置。这可能意味着，铁锈子在受到如此伤害的情况下已经无法不加干预地生存、需要辅助设施介入了。
+
+=== 不同阶段对比 ===
+{|
+|-
+[[hcell style="width:300px"]]
+[[File: sabitsuki-s-room/Own_room.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: 50.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: 100.png size="small"]]
+[[/hcell]]
+
+|-
+|
+“自己的房间”，侵蚀度0点
+
+|
+“自己的房间”，侵蚀度50点
+
+|
+“自己的房间”，侵蚀度100点
+
+
+|-
+[[hcell style="width:300px"]]
+[[File: 150.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: 180.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: 200.png size="small"]]
+[[/hcell]]
+
+|-
+|
+“自己的房间”，侵蚀度150点
+
+|
+“自己的房间”，侵蚀度180点
+
+|
+“自己的房间”，侵蚀度200点
+
+
+|}

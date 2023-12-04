@@ -1,0 +1,94 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Own_room.png size="small"]] 
+|-
+|!! ^^“自己的房间”^^ 
+|}
+[[/div]]
+'''“自己的房间”'''（自室）是游戏的初始区域，为有限空间。房间包括一个小房间和一个'''阳台'''（ベランダ）。
+
+[[module ListPages category="_default" tags="结局" order="random" limit="1" ]]
+阳台上没有什么有意思的的，但是房间里的某些物品可以互动：
+* 上床睡觉可以存档；
+* 打开电视只会播放噪音；
+* 尝试出门会让铁锈子摇头拒绝；
+* 打开游戏主机可以玩[/shinsoku-neko 《神速猫》];
+* 坐在电脑前与电脑互动可以进入flow状态；
+* 在某些状态下出门会触发不同的[/%%page_name%% 结局]。
+[[/module]]
+
+进入flow状态后铁锈子将会来到'''“我的房间”'''（マイルーム）。铁锈子将会出现在阳台上，而此处唯一的变化是天空的背景变得阴暗诡异。房间的布局倒是变了不少：游戏主机消失了，而粉色坐垫直接被摆在了电视机前。只有收集了所有效果后才可以与此处的电脑互动，此时所有效果都将被抛弃，而玩家将转而扮演[/rust 锖]。躲进被窝里并不会触发什么，但出门将会把你带到[/entrance 入口]。
+
+当扮演锖时，“我的房间”中的电脑将会消失；而在收集了[/empty-boxes 无垢/笑颜/鬼]三种特殊收集品后，原先电脑所在的位置会出现一台电梯，通向[/rust-corridor rust]。
+
+=== 连接 ===
+* [/entrance 入口]
+* [/rust-corridor rust]
+
+=== 备考 ===
+* 日语中的“自室”强调房间是某人自己的，而“マイルーム”才是字面意义上的“我的房间”。
+* 随着[/erosion-counter 侵蚀度]的增加，房间中会出现越来越多的喷溅血迹。
+* [/debug-room 调试房]的入口在该房间的墙上。只有修改游戏或者触发[/walk-through 穿墙漏洞]才能进入。
+* “我的房间”的阳台外天空与[/plant-corridor 触手･植物和植物迷宫最深处]的背景底图相同。
+* 据[/lol 身身身]自己的解说，房间的阳台是在制作中期再绘制的。
+* 电脑的鼠标放在左手侧——这意味着铁锈子可能是个左撇子。
+
+=== 推测 ===
+* 也许现实中的房间并不属于铁锈子，但flow中的所有事物都代表着铁锈子心灵的一部分，所以flow中的房间才是真正属于铁锈子的房间。
+* 又或许铁锈子在现实中总感到不安或没有归属感，因此不觉得这个房间是“她的”，而只是为她所使用；flow中的事物是铁锈子为了逃避现实而产生的幻想，那个房间才是她的所在。
+
+=== 房间外观 ===
+{|
+|-
+[[hcell style="width:300px"]]
+[[File: My_room.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: My_room_rust.png size="small"]]
+[[/hcell]]
+
+|-
+|
+“我的房间”
+
+|
+“我的房间”（锖）
+
+
+|-
+[[hcell style="width:300px"]]
+[[File: Veranda.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: Veranda2.png size="small"]]
+[[/hcell]]
+
+|-
+|
+阳台（“自己的房间”）
+
+|
+阳台（“我的房间”）
+
+
+|}
+
+=== 相关源文件 ===
+{|
+|-
+[[hcell style="width:300px"]]
+[[File: densen2.png size="small"]]
+[[/hcell]]
+[[hcell style="width:300px"]]
+[[File: densen.png size="small"]]
+[[/hcell]]
+
+|-
+|
+游戏源文件中的densen2.png
+
+|
+游戏源文件中的densen.png
+
+
+|}
