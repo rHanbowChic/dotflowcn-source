@@ -1,7 +1,7 @@
 # dotflowcn-source
 [.flow中文维基](http://dotflowcn.wikidot.com)[^AccessMethod]的wikidot源代码备份。`000-path,pagename.csv`是页面名和标题的对照表。`files`目录下包含.flow中文维基所有页面的附件。
 
-源代码的作者列表可在[网站](http://dotflowcn.wikidot.com/contact)[^AccessMethod][^EmptyBox]中查看，使用CC-BY-SA 3.0协议发布，包括`pages`与`files`目录下的所有内容。参见`pages/LICENSE`与`files/LICENSE`。
+源代码的作者列表可在[网站](http://dotflowcn.wikidot.com/contact)[^AccessMethod][^EmptyBox]中查看，使用CC-BY-SA 3.0协议发布，包括`pages`与`files`目录下的内容。参见`pages/LICENSE`与`files/LICENSE`。
 
 ![作者信息](./dotflowcn-about.png)
 
