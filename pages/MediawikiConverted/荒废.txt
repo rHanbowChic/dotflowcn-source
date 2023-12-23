@@ -4,30 +4,30 @@
 |-
 |!! ^^荒废的屋顶^^ 
 |}
-[[/div]]
-'''荒废'''（退廃）是新版本加入的一张有限地图。[[footnote]] ''“因为是最近做的东西所以表现很直截了当。嘛，没办法呢。”——身身身'' [[/footnote]]
+[[div]]
+'''荒废'''（退廃）是新版本加入的一张有限地图。[[footnote]]|''“因为是最近做的东西所以表现很直截了当。嘛，没办法呢。”——身身身'' [[/footnote]]
 
-在[/disposal 处置]中有一条梯子，向上爬便可以到达荒废的'''屋顶'''部分。这里看起来就像过度污染的重工业区，背景里有许多生锈的路灯杆、老化的烟囱与高楼大厦。屋顶只有两个出入口，一个通向处置，另一个在东边，通向'''荒废公寓'''（退廃アパート）。这里看起来就像[/apartment 公寓]一样，但是以蓝色调装潢。继续前行会到达'''荒废走廊'''（退廃廊下）。[/sugar-girl 茶点]坐在走廊角落里抽着烟，身边放着烟灰缸和香烟盒；她对一切外界刺激毫无反应。走廊里共有四扇门，通向四个房间。所有的房间入口都被一扇坚不可摧的落地观察窗拦住，因此无法进入内部，只能从外面观察。
+在[[disposal|处置]]中有一条梯子，向上爬便可以到达荒废的'''屋顶'''部分。这里看起来就像过度污染的重工业区，背景里有许多生锈的路灯杆、老化的烟囱与高楼大厦。屋顶只有两个出入口，一个通向处置，另一个在东边，通向'''荒废公寓'''（退廃アパート）。这里看起来就像[[apartment|公寓]]一样，但是以蓝色调装潢。继续前行会到达'''荒废走廊'''（退廃廊下）。[[sugar-girl|茶点]]坐在走廊角落里抽着烟，身边放着烟灰缸和香烟盒；她对一切外界刺激毫无反应。走廊里共有四扇门，通向四个房间。所有的房间入口都被一扇坚不可摧的落地观察窗拦住，因此无法进入内部，只能从外面观察。
 
 从左到右第一扇门通往'''0号房间'''。在角落里有一张空床与一杆吊瓶，地上则有一个破碎的巨大花瓶，淡紫色的液体从中流出；旁边有一摊模糊的血肉。
 
-第二扇门通往'''1号房间'''。房间里有着出现在[/sugar-float-days sugar float days]事件中的方桌、椅子，茶点坐在右侧，但铁锈子的位置是空的，桌上的茶杯也打翻了。在房间西侧站着[/little-sabitsuki 小铁锈子]，她背向玩家视角面对着铁锈子，会在按下互动键<span style="color:white">[[span class="keycap"]]Z[[/span]]</span>时摇头。
+第二扇门通往'''1号房间'''。房间里有着出现在[[sugar-float-days|sugar float days]]事件中的方桌、椅子，茶点坐在右侧，但铁锈子的位置是空的，桌上的茶杯也打翻了。在房间西侧站着[[little-sabitsuki|小铁锈子]]，她背向玩家视角面对着铁锈子，会在按下互动键<span style="color:white">[[span class="keycap"]]Z[[span]]</span>时摇头。
 
-第三扇门通往'''2号房间'''。角落里有张空床，而铁锈子则倚着[/iron-pipe 铁管]坐在空地上，身边扔着零零散散的空酒瓶与空杯面盒[[footnote]] ''“我记得我当时想画成泡面的。”——身身身'' [[/footnote]]，以及几滩淡紫色液体。她的面前有一把剪刀和一些碎纸条。
+第三扇门通往'''2号房间'''。角落里有张空床，而铁锈子则倚着[/iron-pipe|铁管]]坐在空地上，身边扔着零零散散的空酒瓶与空杯面盒[[footnote]] ''“我记得我当时想画成泡面的。”——身身身'' [[[footnote]]，以及几滩淡紫色液体。她的面前有一把剪刀和一些碎纸条。
 
-第四扇门通往'''3号房间'''。当铁锈子进入这里时，所能看到的只有一片黑暗，按下互动键<span style="color:white">[[span class="keycap"]]Z[[/span]]</span>会离开房间，无论朝向。当[/rust 锖]来到这里时会触发[/night-visit 夜袭]事件。
+第四扇门通往'''3号房间'''。当铁锈子进入这里时，所能看到的只有一片黑暗，按下互动键<span style="color:white">[[span|class="keycap"]]Z[[span]]</span>会离开房间，无论朝向。当[/rust|锖]]来到这里时会触发[[night-visit|夜袭]]事件。
 
 === 指南 ===
-* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartment 公寓] > [/snow-world 雪原] > [/disposal 处置] > 荒废
+* [[entrance|入口]] > [[utility-pole-world|电线杆]] > [[apartment|公寓]] > [[snow-world|雪原]] > [[disposal|处置]] > 荒废
 
 === 连接 ===
-* [/disposal 处置]
+* [[disposal|处置]]
 
 === 备考 ===
 * 1号房间中的小铁锈子在源文件中名为“Rust”。
-* 在ver. 0.193中铁锈子无法进入3号房间，即使通过修改游戏进入了也只会看到一名[/kaibutsu 怪物]站在铁锈子身后而已。
-** ''“这里感觉和[/apartments 刚才那个公寓]是一样的地图。整体都是暗蓝色的呢。”——身身身''
-** ''“和[/sabitsuki-s-room 主人公家]的房门长得一样呢……是不是代表了什么呢？”——身身身''
+* 在ver. 0.193中铁锈子无法进入3号房间，即使通过修改游戏进入了也只会看到一名[[kaibutsu|怪物]]站在铁锈子身后而已。
+** ''“这里感觉和[[apartments|刚才那个公寓]]是一样的地图。整体都是暗蓝色的呢。”——身身身''
+** ''“和[[sabitsuki-s-room|主人公家]]的房门长得一样呢……是不是代表了什么呢？”——身身身''
 ** ''“最右边的房间，姑且算是现在这个时间点发生的事情。有个长得像铁锈子的人在乱闹呢。”——身身身''
 
 === 推测 ===
@@ -42,43 +42,43 @@
 |-
 [[hcell style="width:300px"]]
 [[File: Deteriorated_Apartments.png size="small"]]
-[[/hcell]]
-[[hcell style="width:300px"]]
+[[[hcell]]
+[[hcell|style="width:300px"]]
 [[File: Deteriorated_Hallway.png size="small"]]
-[[/hcell]]
-[[hcell style="width:300px"]]
+[[hcell]]
+[[hcell|style="width:300px"]]
 [[File: Deteriorated_Room_0.png size="small"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |
 荒废公寓
-
+|
 |
 荒废走廊
-
+|
 |
 0号房间
-
+|
 
 |-
-[[hcell style="width:300px"]]
+[[hcell|style="width:300px"]]
 [[File: Deteriorated_Room_1.png size="small"]]
-[[/hcell]]
-[[hcell style="width:300px"]]
+[[hcell]]
+[[hcell|style="width:300px"]]
 [[File: Deteriorated_Room_2.png size="small"]]
-[[/hcell]]
-[[hcell style="width:300px"]]
+[[hcell]]
+[[hcell|style="width:300px"]]
 [[File: Deteriorated_Room_3.png size="small"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |
 1号房间
-
+|
 |
 2号房间
-
+|
 |
 3号房间，于“夜袭”事件中
 

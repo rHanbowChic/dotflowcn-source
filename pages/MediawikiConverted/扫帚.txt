@@ -4,11 +4,11 @@
 |-
 |!! ^^骑着扫帚的魔女铁锈子^^ 
 |}
-[[/div]]
-'''“扫帚”'''（ほうき）效果可以让铁锈子穿上魔女服并骑上扫帚，将移速提升至两倍。这个效果可通过与[[famicom-world|]]的魔女互动来获取。
+[[div]]
+'''“扫帚”'''（ほうき）效果可以让铁锈子穿上魔女服并骑上扫帚，将移速提升至两倍。这个效果可通过与[[[famicom-world|]]的魔女互动来获取。
 
-=== 指南 ===
-* [[entrance|]] > [[utility-pole-world|]] > [[apartments|]] > [[cloud-world|]] > [[famicom-world|]]
+===|指南 ===
+* [[entrance|]]] > [[utility-pole-world|]] > [[apartments|]] > [[cloud-world|]] > [[famicom-world|]]
 
 从云进入FC后径直往上走，进入魔女之屋，你会看到魔女正在四处走动（或者炼药）。与之互动即可得到“幽灵”效果。
 

@@ -1,0 +1,57 @@
+{|
+|-
+[[hcell style="width:100px"]]
+[[File: Flow_menu_icon.png width="79px" link="flow Menu"]]
+[[hcell]]
+[[hcell|style="width:100px"]]
+[[File: Famicom_menu_icon.png width="79px" link="Famicom Menu"]]
+[[hcell]]
+[[hcell|style="width:100px"]]
+[[File: Dot_menu_icon.png width="79px" link="Dot Menu"]]
+[[hcell]]
+[[hcell|style="width:100px"]]
+[[File: Orange_menu_icon.png width="79px" link="Orange Menu"]]
+[[hcell]]
+
+|-
+|
+[[flow Menu|flow]]
+|
+|
+[[“FC”菜单主题|FC]]
+|
+|
+[[“圆点”菜单主题|圆点]]
+|
+|
+[[“橙色”菜单主题|橙色]]
+|
+
+|-
+[[hcell|style="width:100px"]]
+[[File: Flower_menu_icon.png width="79px" link="Flower Menu"]]
+[[hcell]]
+[[hcell|style="width:100px"]]
+[[File: Sugar_menu_icon.png width="79px" link="Sugar Menu"]]
+[[hcell]]
+[[hcell|style="width:100px"]]
+[[File: Rust_menu_icon.png width="79px" link="Rust Menu"]]
+[[hcell]]
+[[hcell|style="width:100px"]]
+[[File: Smile_menu_icon.png width="79px" link="Smile Menu"]]
+[[hcell]]
+
+|-
+|
+[[Flower Menu|花]]
+|
+|
+[[Sugar Menu|糖]]
+|
+|
+[[Rust Menu|锈蚀]]
+|
+|
+[[笑颜 Menu|笑颜]]
+
+|}

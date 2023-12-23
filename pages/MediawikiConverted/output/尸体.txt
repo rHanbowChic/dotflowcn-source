@@ -1,0 +1,32 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image Corpse_Effect.png width="64px"]] 
+|-
+|!! ^^变成尸体的铁锈子^^ 
+|}
+[[div]]
+'''“尸体”'''（したい）效果可以让铁锈子变成一具行尸走肉。该效果只是装饰性效果，并不会给铁锈子某种附加能力。
+
+这个效果可以在[[[prison]]中找到。
+
+===|指南 ===
+* [[Entrance]]] > [[植物 World]] > [[Submarine World]] > [[Submarine City]] > [[Submarine Corridors]] > [[Prison]]
+
+进入入口后向南走到达植物，然后一直向东南走以寻找一对浅褐色柱子。穿过其中即可到达海底世界。一路向北走进入一栋巨型建筑，此时你便来到了海底都市。
+
+按照以下路径前进：东、北、北、西、西、东、北，然后你就会来到一片极其昏暗的单行走廊（即海底迷宫第一部分）。接着往下走，在分岔路口选择向北的道路，你就会到达第二部分。进入东北方的出口后你就会到达水牢。
+
+进入水牢后在此处寻找一座断头台（不要与之互动）。然后，先向东走到一处走廊，再稍微向北走，进入走廊包围着的房间，你会找到一扇门。进去之后保持向北走（即使什么都看不见），你最终会发现一具尸体。与之互动即可得到“尸体”效果。
+
+=== 视频指南 ===
+[[embedvideo]]
+
+<iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280131753&page=17" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[[[embedvideo]]
+
+=== 备考 ===
+* 从缺……
+
+=== 推测 ===
+* 从缺……

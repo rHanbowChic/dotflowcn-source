@@ -4,18 +4,18 @@
 |-
 |!! ^^umi悬崖^^ 
 |}
-[[/div]]
-'''umi'''是一个规模较小的有限世界，不包含任何事件或效果。这里的一切都显示为黑白单色。要想到达umi，[/sabitsuki 铁锈子]必须通过[/plant-world 植物]到达[/submarine-city 海底都市]，并且不能在[/submarine-corridors 海底迷宫]中走错路。
+[[div]]
+'''umi'''是一个规模较小的有限世界，不包含任何事件或效果。这里的一切都显示为黑白单色。要想到达umi，[/sabitsuki|铁锈子]]必须通过[[plant-world|植物]]到达[[submarine-city|海底都市]]，并且不能在[[submarine-corridors|海底迷宫]]中走错路。
 
 进入umi后铁锈子会先出现在'''umi电梯'''，乘电梯即可返回海底迷宫。向北走会到达'''umi悬崖'''，向西走则会到达'''umi房子'''。
 
-进入房子就会到达'''umi房间'''（umiheya），房间中有一名被称为[/gisokuko 义足子]的NPC。她对所有效果都有正常反应，但不可互动。当[/rust 锖]到达umi时，义足子不会出现。
+进入房子就会到达'''umi房间'''（umiheya），房间中有一名被称为[[gisokuko|义足子]]的NPC。她对所有效果都有正常反应，但不可互动。当[[rust|锖]]到达umi时，义足子不会出现。
 
 === 指南 ===
-* [/entrance 入口] > [/plant-world 植物] > [/submarine-world 海底世界] > [/submarine-city 海底都市] > [/submarine-corridors 海底迷宫] > umi
+* [[entrance|入口]] > [[plant-world|植物]] > [[submarine-world|海底世界]] > [[submarine-city|海底都市]] > [[submarine-corridors|海底迷宫]] > umi
 
 === 连接 ===
-* [/submarine-corridors 海底迷宫]
+* [[submarine-corridors|海底迷宫]]
 
 === 备考 ===
 * 这些地图在游戏文件中被命名为'''umi'''，意为“海”；其BGM文件名为'''naminooto'''，即“海浪声”。
@@ -28,21 +28,21 @@
 |-
 [[hcell style="width:300px"]]
 [[File: sea_elevator.png size="small"]]
-[[/hcell]]
-[[hcell style="width:300px"]]
+[[[hcell]]
+[[hcell|style="width:300px"]]
 [[File: sea_house.png size="small"]]
-[[/hcell]]
-[[hcell style="width:300px"]]
+[[hcell]]
+[[hcell|style="width:300px"]]
 [[File: sea_room.png size="small"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |
 umi电梯
-
+|
 |
 umi房子
-
+|
 |
 umi房间
 

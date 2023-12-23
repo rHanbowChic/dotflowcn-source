@@ -8,22 +8,22 @@
 |-
 |!! ^^扫除第二部分^^ 
 |}
-[[/div]]
-'''扫除'''（掃除）是一片无限空间，包含两个不相连的部分。[/daruma “不倒翁”]效果可以在这里找到。
+[[[div]]
+'''扫除'''（掃除）是一片无限空间，包含两个不相连的部分。[/daruma|“不倒翁”]]效果可以在这里找到。
 
-在[/sugar-hole Sugar Hole]后厨里的墙上有一副绘画，与之互动即可来到扫除。游戏中有一个随机数值会在传送时被设在[1,100]内，在已经取得“不倒翁”效果的情况下，若1d100>70，则[/sabitsuki 铁锈子]会被传送到第一部分；反之则被传送到第二部分。
+在[[sugar-hole|Sugar Hole]]后厨里的墙上有一副绘画，与之互动即可来到扫除。游戏中有一个随机数值会在传送时被设在[1,100]内，在已经取得“不倒翁”效果的情况下，若1d100>70，则[[sabitsuki|铁锈子]]会被传送到第一部分；反之则被传送到第二部分。
 
-第一部分比第二部分来得小，表现为一片零散分布着破洞的平坦空间。这里的NPC有一名[/gas-mask-maids 防毒面具女仆]和两名敌对[/kaibutsu 怪物]；当[/rust 锖]造访此处时怪物会被胎儿所取代，而女仆会消失。此处唯一的门通向Sugar Hole的后厨。
+第一部分比第二部分来得小，表现为一片零散分布着破洞的平坦空间。这里的NPC有一名[[gas-mask-maids|防毒面具女仆]]和两名敌对[[kaibutsu|怪物]]；当[[rust|锖]]造访此处时怪物会被胎儿所取代，而女仆会消失。此处唯一的门通向Sugar Hole的后厨。
 
 第二部分则更为开阔，破损地面的面积增大，其中有许多生锈或带血的铁管向上刺出。此处怪物仍然敌对，但数量增加为三名，而女仆不变。当锖造访此处时怪物依旧会被胎儿所取代，但女仆不会消失。
 
 === 指南 ===
-* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/sugar-hole Sugar Hole] > 扫除
-* [/entrance 入口] > [/music-world 音乐] > [/connecting-tile-path 连瓦] > [/white-room 白色房间] > [/blood-maze 血液] > [/insides 内] > [/sewers 下水道] > [/sugar-hole Sugar Hole] > 扫除
-* [/entrance 入口] > [/dysmorphic-World 畸形] > [/footprint-Path 足迹] > [/rainbow-maze 彩虹] > [/psychedelic-town 迷幻街道] > [/sewers 下水道] > [/sugar-hole Sugar Hole] > 扫除
+* [[entrance|入口]] > [[utility-pole-world|电线杆]] > [[apartments|公寓]] > [[sugar-hole|Sugar Hole]] > 扫除
+* [[entrance|入口]] > [[music-world|音乐]] > [[connecting-tile-path|连瓦]] > [[white-room|白色房间]] > [[blood-maze|血液]] > [[insides|内]] > [[sewers|下水道]] > [[sugar-hole|Sugar Hole]] > 扫除
+* [[entrance|入口]] > [[dysmorphic-World|畸形]] > [[footprint-Path|足迹]] > [[rainbow-maze|彩虹]] > [[psychedelic-town|迷幻街道]] > [[sewers|下水道]] > [[sugar-hole|Sugar Hole]] > 扫除
 
 === 连接 ===
-* [/sugar-hole Sugar Hole]
+* [[sugar-hole|Sugar Hole]]
 
 === 备考 ===
 * 尽管“不倒翁”效果可以在第一部分中被收集，但第一部分无法在没有该效果时进入。

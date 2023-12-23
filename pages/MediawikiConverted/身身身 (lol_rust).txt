@@ -4,12 +4,12 @@
 |-
 |!! ^^戴着防毒面具的身身身^^ 
 |}
-[[/div]]
-'''身身身'''（lol_rust）是《.flow》的作者。他的生日在7月30日。[[footnote]] [https://twitter.com/lol_rust/status/1131908686513754112 “对，7月30号是我的生日”] [[/footnote]] 2012年时他曾表示自己住在东京，但现居住地未知。[[footnote]] [https://web.archive.org/web/20120404171752/http://theinterviews.jp/lol_rust theinterviews.jp上关于lol_rust的采访] [[/footnote]] 他在2019年2月5日结婚了。 [[footnote]] [https://twitter.com/lol_rust/status/1094239402383949824 一条“進捗”推文] [[/footnote]]
+[[div]]
+'''身身身'''（lol_rust）是《.flow》的作者。他的生日在7月30日。[[footnote]]|[https://twitter.com/lol_rust/status/1131908686513754112 “对，7月30号是我的生日”]] [[[footnote]]|2012年时他曾表示自己住在东京，但现居住地未知。[[footnote]] [https://web.archive.org/web/20120404171752/http://theinterviews.jp/lol_rust theinterviews.jp上关于lol_rust的采访] [[footnote]]|他在2019年2月5日结婚了。 [[footnote]] [https://twitter.com/lol_rust/status/1094239402383949824 一条“進捗”推文] [[footnote]]
 
-他的昵称——lol，lol_rust和“身身身”——全部是小写的，其中“lol”在日语中读作“ロル”（roru）。在欧美网络文化圈中，lol是“laugh out loudly”的缩写，意为“笑死了”，这也是他最喜欢的网络用语。[[footnote]] [https://web.archive.org/web/20150717165400/http://theinterviews.jp/lol_rust/2030263 theinterviews.jp上关于lol_rust的提问] [[/footnote]]
+他的昵称——lol，lol_rust和“身身身”——全部是小写的，其中“lol”在日语中读作“ロル”（roru）。在欧美网络文化圈中，lol是“laugh|out loudly”的缩写，意为“笑死了”，这也是他最喜欢的网络用语。[[footnote]] [https://web.archive.org/web/20150717165400/http://theinterviews.jp/lol_rust/2030263 theinterviews.jp上关于lol_rust的提问] [[[footnote]]
 
-=== 游戏 ===
+===|游戏 ===
 * '''《.flow》''' - 梦日记派生向“行走模拟器”
 ** 於2009年2月15日發布。
 ** 於2019年5月27日最後一次更新。
@@ -28,7 +28,7 @@
 * '''《AruMa KeteRa》''' - 横版卷轴弹幕游戏
 ** 於2019年3月4日更新。
 ** 與2019年6月20日最後一次更新。
-* '''《Milya[broken]》''' - 解谜向恐怖游戏，《Milya》续作
+* '''《Milya[broken]]》''' - 解谜向恐怖游戏，《Milya》续作
 ** 於2020年3月27日發布。
 ** 於2020年10月15日最後一次更新。
 
@@ -36,8 +36,8 @@
 * 橙色似乎是身身身最喜欢的颜色。
 * 身身身很喜欢《梦日记》中的モノ子。
 ** ''“モノ子ッッ可愛いよかわいいいよォモノ子ォォァアアアアッアァッッ！！！”——身身身，readme.txt''
-* 身身身在创作《.flow》时从asgr的作品中汲取了灵感。[[footnote]] [https://uboachan.net/flow/res/901.html Uboachan有关asgr的讨论串] [[/footnote]]
-** 在《.flow》的[/submarine-world 海底世界]中、[/oreko 潜水子]的家里有一台巨型橙色机器，其形象与Pixiv画师[/https://www.pixiv.net/member.php?id=4357166 asgr]的早期作品类似。
+* 身身身在创作《.flow》时从asgr的作品中汲取了灵感。[[footnote]] [https://uboachan.net/flow/res/901.html Uboachan有关asgr的讨论串] [[[footnote]]
+|* 在《.flow》的[/submarine-world 海底世界]]中、[[oreko|潜水子]]的家里有一台巨型橙色机器，其形象与Pixiv画师[[https://www.pixiv.net/member.php?id=4357166|asgr]]的早期作品类似。
 ** ''“说起来，这个机械是受到了某个画师的影响。还挺那啥的（笑）。”——身身身''
 * 身身身曾在实况中提及过最喜欢的《.flow》地图，并描述了自己制作《.flow》时的想法：
 ** ''“我最喜欢的地图是医院周边的地图……还有在那之后医院地下的地图我比较喜欢吧，那边感觉就是‘哇到了一个不妙的地方’。这种感觉时不时冒出来，挺不错呢。 _
@@ -53,8 +53,8 @@
 |-
 |!! ^^身身身在视频中用的logo^^ 
 |}
-[[/div]]
-* [http://118.27.39.63/ 主页]
+[[[div]]
+*|[http://118.27.39.63/ 主页]]
 * [http://www.pixiv.net/member.php?id=269411 Pixiv画师主页]
 * [http://lolrust.deviantart.com/ DeviantArt作者主页]
 * [https://twitter.com/lol_rust Twitter账号]

@@ -4,8 +4,8 @@
 |-
 |!! ^^长满各种植物的铁锈子^^ 
 |}
-[[/div]]
-'''“植物”'''（しょくぶつ）效果可以让铁锈子身上长满植物，而按下行动键{{Shift}}后植物会进一步生长。这个效果可以在[[Illusionary Corridors|]]中找到。
+[[div]]
+'''“植物”'''（しょくぶつ）效果可以让铁锈子身上长满植物，而按下行动键{{Shift}}后植物会进一步生长。这个效果可以在[[[Illusionary|Corridors|]]]中找到。
 
 === 指南 ===
 * [[Entrance|]] > [[Utility Pole World|]] > [[Apartments|]] > [[Snow World|]] > [[Illusionary Corridors|]]

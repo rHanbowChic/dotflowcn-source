@@ -4,21 +4,21 @@
 |-
 |!! ^^丛生一隅^^ 
 |}
-[[/div]]
+[[[div]]
 '''丛生'''是一片有限的岛屿，其上遍布各色疯长的奇异植物。
 
-尽管'''丛生'''看上去杂乱无章，但实际上这里是一片单行道区域。与每座岛屿上唯一的白百合互动后，伴随着一声钟鸣，铁锈子将会被传送到下一座岛屿，直至最后到达[/flower-world 花]。另外，与一个橙色的标记互动会将铁锈子带到[/orange-maze 橙色迷宫]。
+尽管'''丛生'''看上去杂乱无章，但实际上这里是一片单行道区域。与每座岛屿上唯一的白百合互动后，伴随着一声钟鸣，铁锈子将会被传送到下一座岛屿，直至最后到达[/flower-world|花]]。另外，与一个橙色的标记互动会将铁锈子带到[[orange-maze|橙色迷宫]]。
 
 === 指南 ===
-* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/snow-world 雪原] > [/illusionary-corridors 幻想迷宫] > [/plant-corridors 植物迷宫] > [/flower-world 花] > 丛生
-* [/entrance 入口] > [/music-world 音乐] > [/connecting-tile-path 连瓦] > [/white-room 白色房间] > [/blood-maze 血液] > [/insides 内] > [/sewers 下水道] > [/orange-maze 橙色迷宫] > 丛生
+* [[entrance|入口]] > [[utility-pole-world|电线杆]] > [[apartments|公寓]] > [[snow-world|雪原]] > [[illusionary-corridors|幻想迷宫]] > [[plant-corridors|植物迷宫]] > [[flower-world|花]] > 丛生
+* [[entrance|入口]] > [[music-world|音乐]] > [[connecting-tile-path|连瓦]] > [[white-room|白色房间]] > [[blood-maze|血液]] > [[insides|内]] > [[sewers|下水道]] > [[orange-maze|橙色迷宫]] > 丛生
 
 === 连接 ===
-* [/flower-world 花]
-* [/orange-maze 橙色迷宫]
+* [[flower-world|花]]
+* [[orange-maze|橙色迷宫]]
 
 === 备考 ===
-* 在通向橙色迷宫的标记处，面朝南方持续使用[/whistle “哨子”]效果的话，一株奇异的植物会从北面的水中漂来靠岸。
+* 在通向橙色迷宫的标记处，面朝南方持续使用[[whistle|“哨子”]]效果的话，一株奇异的植物会从北面的水中漂来靠岸。
 * 这里似乎致敬了《梦日记》中的地图“浅濑”。
 ** ''“这里稍微有点像是浅濑的地图……是有点像哦（笑）。有在致敬哦。”——身身身''
 

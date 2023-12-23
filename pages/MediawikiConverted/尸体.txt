@@ -4,13 +4,13 @@
 |-
 |!! ^^变成尸体的铁锈子^^ 
 |}
-[[/div]]
+[[div]]
 '''“尸体”'''（したい）效果可以让铁锈子变成一具行尸走肉。该效果只是装饰性效果，并不会给铁锈子某种附加能力。
 
-这个效果可以在[[prison|]]中找到。
+这个效果可以在[[[prison|]]中找到。
 
-=== 指南 ===
-* [[Entrance|]] > [[Plant World|]] > [[Submarine World|]] > [[Submarine City|]] > [[Submarine Corridors|]] > [[Prison|]]
+===|指南 ===
+* [[Entrance|]]] > [[Plant World|]] > [[Submarine World|]] > [[Submarine City|]] > [[Submarine Corridors|]] > [[Prison|]]
 
 进入入口后向南走到达植物，然后一直向东南走以寻找一对浅褐色柱子。穿过其中即可到达海底世界。一路向北走进入一栋巨型建筑，此时你便来到了海底都市。
 

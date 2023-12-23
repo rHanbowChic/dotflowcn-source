@@ -4,12 +4,12 @@
 |-
 |!! ^^眼和嘴的浮屏^^ 
 |}
-[[/div]]
-'''浮屏'''是出现在[/submarine-corridors 海底迷宫]的NPC。总共有两种浮屏：眼和嘴。它们靠破碎的翅膀悬浮飞行。
+[[[div]]
+'''浮屏'''是出现在[/submarine-corridors|海底迷宫]]的NPC。总共有两种浮屏：眼和嘴。它们靠破碎的翅膀悬浮飞行。
 
 === 指南 ===
-* [/entrance 入口] > [/plant-world 植物] > [/submarine-world 海底世界] > [/submarine-city 海底都市] > [/submarine-corridors 海底迷宫]
-* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/submarine-corridors 海底迷宫]
+* [[entrance|入口]] > [[plant-world|植物]] > [[submarine-world|海底世界]] > [[submarine-city|海底都市]] > [[submarine-corridors|海底迷宫]]
+* [[entrance|入口]] > [[utility-pole-world|电线杆]] > [[apartments|公寓]] > [[submarine-corridors|海底迷宫]]
 
 浮屏出现在海底迷宫中的水牢入口。
 

@@ -4,10 +4,10 @@
 |-
 |!! ^^血肉之围^^ 
 |}
-[[/div]]
-描绘了'''体内'''景象的地图。铁锈子可以在这找到[[Whistle|哨子]]效果。
+[[div]]
+描绘了'''体内'''景象的地图。铁锈子可以在这找到[[[Whistle|哨子]]效果。
 
-大量的[[Onigo|鬼子]]散布于此地。从[[Reverse Apartments|里公寓]]可以触发藏匿于该世界的[[Childbirth|分娩]]事件。
+大量的[[Onigo|鬼子]]散布于此地。从[[Reverse|Apartments|里公寓]]]可以触发藏匿于该世界的[[Childbirth|分娩]]事件。
 
 === 指南 ===
 * [[Entrance|入口]] > [[Music World|音乐]] > [[Connecting Tile Path|连瓦]] > [[White Room|白色房间]] > [[Blood Maze|血液]] > [[Insides|内]] > 腔内
@@ -27,7 +27,7 @@
 |-
 [[hcell style="width:250px"]]
 [[File: compare.png size="small"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |

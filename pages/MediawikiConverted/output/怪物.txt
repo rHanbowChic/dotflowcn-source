@@ -1,0 +1,47 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Kaibutsu-passive.png width="211px"]] 
+|-
+|!! ^^Passive Kaibutsu^^ 
+|-
+||| [[File: Kaibutsu-aggressive.png width="211px"]] 
+|-
+|!! ^^Aggressive Kaibutsu^^ 
+|}
+[[div]]
+The|'''Kaibutsu''' (怪物) are white-haired, pale-skinned schoolchildren with bleeding faces, all wearing white [[[制服 | school uniforms]]].
+
+There are three types of Kaibutsu, and they change when they become aggressive. The first one has short hair and straight bangs. Its face becomes a dark red hole when it is angered. The second one has short hair and parted bangs, its eyes become bright red when it is angered. The third one has twintails, its face becomes a large mouth when it is aggressive.
+
+Hitting one of them with the [[Iron Pipe]] causes that Kaibutsu to laugh and all of them become aggressive in the current flow session. Some Kaibutsu are aggressive by default. Angered Kaibutsu chase [[Sabitsuki]] and trap her on touch, teleporting her to a small piece of land. The player can get out of there by using [[Arms]] or waking up. It is possible to avoid Kaibutsu detection by turning invisible with the [[Ghost]] effect. Even when angered, they can be moved by using the [[Whistle]], but calm Kaibutsu look like aggressive when they are moved, before reverting to their normal appearance. The ones that are always aggressive stay still when the [[Handgun]] is shot. <!-- Apparently all Kaibutsu are angered when Oreko is dead? Need to test it -->
+
+Ordinary Kaibutsu turn into [[Fetuses]] when the player controls [[Rust]].
+
+=== Locations ===
+* There is a calm "eye-faced" Kaibutsu in the [[植物 Corridors]], it teleports Sabitsuki to a [[Connecting Tile Path]]-themed trap;
+* There is a calm "mouth-faced" Kaibutsu in the [[Footprint Path]], it teleports Sabitsuki to the secluded area of the [[Music World]];
+* There are three aggressive Kaibutsu in the [[Orange Maze]]. The "eye-faced" one teleports Sabitsuki to a [[Submarine City]]-themed trap. The "mouth-faced" one teleports to a Connecting Tile Path-themed trap. The "hole-faced" one teleports to a Footprint Path-themed trap;
+** Three more Kaibutsu appear there when Oreko is killed: two "mouth-faced" and one "eye-faced". They all teleport Sabitsuki to an [[Orange Laboratory]]-themed trap. One of the "mouth-faced" Kaibutsu does not react to the Handgun;
+* There are two aggressive Kaibutsu in the [[Cloud World]]: "hole-faced" and "eye-faced". They both teleport Sabitsuki to a [[Submarine Corridors]]-themed trap;
+* There are two aggressive Kaibutsu in the first variant of the [[Cleaner World]]: "hole-faced" and "eye-faced". They both teleport Sabitsuki to an Orange Laboratory-themed trap;
+* There are three aggressive Kaibutsu in the second variant of the Cleaner World. The "eye-faced" and "mouth-faced" ones teleport Sabitsuki to two different secluded areas of the Orange Maze. The "hole-faced" one teleports to a secluded area of the [[Wastewater Lake]];
+* There is an aggressive "hole-faced" Kaibutsu in the area leading to the Footprint Path. It teleports Sabitsuki to a Submarine City-themed trap;
+
+=== Special Kaibutsu ===
+* In the entrance of the [[School]], two Kaibutsu stand behind the counter, and change the [[菜单主题|menu type]] upon interaction. The "hole-faced" one is always active and allows the player to choose between the default menu types. The "eye-faced" one appears only when the player has collected at least one of the hidden menu types, and allows to pick those the player has unlocked.
+* The [[胎内迷宫 Kaibutsu]] behaves like a normal calm Kaibutsu, until it is hit with the Iron Pipe. After she attacks and escapes from it, Sabitsuki is forced into a corrupted area with two aggressive Kaibutsu, "eye-faced", like that calm one, and "hole-faced". All three teleport Sabitsuki to an empty [[Prison]] cell.
+* A [[Sugar Hole Kaibutsu|special Kaibutsu]] will occasionally be seen in the [[Sugar Hole]], it has an event of its own.
+* The [[Shinsoku Kaibutsu]] wanders the [[Blood Maze]]. It is calm initially, but will become angered under certain conditions, including being hit with the Iron Pipe. It teleports Sabitsuki to an Orange Laboratory-themed trap.
+* The [[Corrupted School]] houses several special Kaibutsu:
+** Before Sabitsuki even reaches the school itself, three different aggressive Kaibutsu lay in wait, they start chasing the player when Sabitsuki gets too close to them. One more Kaibutsu, "hole-faced", appears when Sabitsuki runs from the three above. It is extremely fast and cannot be avoided without Ghost. If any of the four catches Sabitsuki, she is teleported to the [[Dysmorphic World]] and the entrance to the Corrupted School disappears.
+** There are seven Kaibutsu that look like Sabitsuki with a huge red grin on her face. They hold Iron Pipes and chase Sabitsuki through the Corrupted School. Sabitsuki is forced to wake up when she is caught.
+** When Rust visits the Corrupted School, the Sabitsuki-like Kaibutsu turn into giant Fetuses, screaming as they do so. When Rust reaches the basement, she becomes a Kaibutsu herself.
+* A Sabitsuki-like Kaibutsu appears during the [[Erosion Event]]. And another one in the [[Night Visit]] event.
+
+=== Trivia ===
+* Kaibutsu (怪物) means "monster".
+
+=== Theories ===
+* The Kaibutsu could be people Sabitsuki knew either in the hospital or during her time in school.
+* They could have been children with a similar disease to Sabitsuki and could have been testing subjects to a cure which ended up with major consequences. The same type of cure could have been used on Sabitsuki with a longer wait until she becomes like them.
+** It is supported by Rust's Corrupted School version, where she becomes a Kaibutsu, and a bloody Sabitsuki in the Orange Laboratory and Sabitsuki in the [[Rust Ending]], the latter two laugh like Kaibutsu.

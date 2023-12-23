@@ -1,0 +1,403 @@
+{|
+|-
+[[hcell style="width:140px"]]
+[[File: Apartments_icon.png width="120px" link="Apartments"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Back_Ward_icon.png width="120px" link="Back Ward"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Blood_Maze_icon.png width="120px" link="Blood Maze"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Cleaner_World_icon.png width="120px" link="Cleaner World"]]
+[[hcell]]
+
+|-
+|
+[[公寓|公寓]]
+|
+|
+[[Back Ward|里病栋]]
+|
+|
+[[血液|血液]]
+|
+|
+[[扫除|扫除]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Cloud_World_icon.png width="120px" link="Cloud World"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Connecting_Tile_icon.png width="120px" link="Connecting Tile Path"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Debug_Room_icon.png width="120px" link="Debug Room"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Deteriorated_Apartments_icon.png width="120px" link="Deterioration"]]
+[[hcell]]
+
+|-
+|
+[[云|云]]
+|
+|
+[[连瓦|连瓦]]
+|
+|
+[[Debug Room|调试房]]
+|
+|
+[[荒废|荒废]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Disposal_icon.png width="120px" link="Disposal"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Dysmorphic_World_icon.png width="120px" link="Dysmorphic World"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Electric_World_icon.gif width="120px" link="Electric World"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Entrance_icon.gif width="120px" link="Entrance"]]
+[[hcell]]
+
+|-
+|
+[[Disposal|处置]]
+|
+|
+[[畸形|畸形]]
+|
+|
+[[电力|电力]]
+|
+|
+[[入口|入口]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Famicom_World_icon.png width="120px" link="Famicom World"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Flower_World_icon.png width="120px" link="Flower World"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Footprint_Path_icon.png width="120px" link="Footprint Path"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Hell_icon.png width="120px" link="Hell"]]
+[[hcell]]
+
+|-
+|
+[[Famicom World|fc]]
+|
+|
+[[Flower World|花]]
+|
+|
+[[Footprint Path|足迹]]
+|
+|
+[[Hell|地狱]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Hole_icon.png width="120px" link="Hole"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Hole_in_girl_icon.png width="120px" link="hole in girl"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Hospital_icon.png width="120px" link="Hospital"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Illusionary_Corridors_icon.png width="120px" link="Illusionary Corridors"]]
+[[hcell]]
+
+|-
+|
+[[Hole|大厅]]
+|
+|
+[[hole in girl]]
+|
+|
+[[Hospital|医院]]
+|
+|
+[[Illusionary Corridors|幻想迷宫]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Insides_icon.png width="120px" link="Insides"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Machine_Nation_icon.png width="120px" link="Machine Nation"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Microorganism_World_icon.png width="120px" link="Microorganism World"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Music_World_icon.png width="120px" link="Music World"]]
+[[hcell]]
+
+|-
+|
+[[内|内]]
+|
+|
+[[机械 Nation|机械民族]]
+|
+|
+[[Microorganism World|微生物]]
+|
+|
+[[音乐|音乐]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Neighborhood_icon.png width="120px" link="Neighborhood"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Orange_Laboratory_icon.png width="120px" link="Orange Laboratory"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Orange_Maze_icon.png width="120px" link="Orange Maze"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Orange_Passage_icon.png width="120px" link="Orange Passage"]]
+[[hcell]]
+
+|-
+|
+[[邻里|邻里]]
+|
+|
+[[Orange Laboratory|橙色]]
+|
+|
+[[Orange Maze|橙色迷宫]]
+|
+|
+[[Orange Passage|橙色地下通道]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Plant_Corridors_icon.png width="120px" link="Plant Corridors"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Plant_World_icon.png width="120px" link="Plant World"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Prison_icon.png width="120px" link="Prison"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Psychedelic_Town_icon.png width="120px" link="Psychedelic Town"]]
+[[hcell]]
+
+|-
+|
+[[植物 Corridors|植物迷宫]]
+|
+|
+[[植物|植物]]
+|
+|
+[[Prison|水牢]]
+|
+|
+[[幻觉 Town|迷幻街道]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Rainbow_Maze_icon.gif width="120px" link="Rainbow Maze"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Reverse_Apartments_icon.png width="120px" link="Reverse Apartments"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Rust_Corridor_icon.png width="120px" link="Rust Corridor"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Sabitsukis_room_icon.png width="120px" link="Sabitsuki's Room"]]
+[[hcell]]
+
+|-
+|
+[[Rainbow Maze|彩虹]]
+|
+|
+[[Reverse Apartments|里公寓]]
+|
+|
+[[Rust Corridor|rust]]
+|
+|
+[[Sabitsuki's Room|“自己的房间”/“我的房间”]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: School_icon.png width="120px" link="School"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Sea_icon.png width="120px" link="sea"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Sewers_icon.png width="120px" link="Sewers"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Snow_World_icon.png width="120px" link="Snow World"]]
+[[hcell]]
+
+|-
+|
+[[学校|学校]]
+|
+|
+[[umi|umi]]
+|
+|
+[[Sewers|下水道]]
+|
+|
+[[雪原|雪原]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Sorrow_icon.png width="120px" link="star-world"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Submarine_City_icon.png width="120px" link="Submarine City"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Submarine_Corridors_icon.png width="120px" link="Submarine Corridors"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Submarine_Village_icon.png width="120px" link="Submarine Village"]]
+[[hcell]]
+
+|-
+|
+[[悲怆|悲怆]]
+|
+|
+[[Submarine City|海底都市]]
+|
+|
+[[Submarine Corridors|海底迷宫]]
+|
+|
+[[海底村落|海底村落]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Submarine_World_icon.png width="120px" link="Submarine World"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Sugar_Hole_icon.png width="120px" link="Sugar Hole"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Sunset_icon.png width="120px" link="Sunset"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Sweet_Sugar_icon.png width="120px" link="Sweet Sugar"]]
+[[hcell]]
+
+|-
+|
+[[Submarine World|海底世界]]
+|
+|
+[[Sugar Hole]]
+|
+|
+[[日落|日落]]
+|
+|
+[[Sweet Sugar]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Town_icon.png width="120px" link="Town"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Utility_Pole_World_icon.png width="120px" link="Utility Pole World"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Visceral_World_icon.png width="120px" link="flesh-walls"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Wastewater_Lake_icon.png width="120px" link="Wastewater Lake"]]
+[[hcell]]
+
+|-
+|
+[[Town|街]]
+|
+|
+[[电线杆|电线杆]]
+|
+|
+[[腔内|腔内]]
+|
+|
+[[废水湖|废水湖]]
+|
+
+|-
+[[hcell|style="width:140px"]]
+[[File: Wetland_icon.png width="120px" link="overgrown-islands"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: White_Room_icon.png width="120px" link="White Room"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Womb_Maze_icon.png width="120px" link="Womb Maze"]]
+[[hcell]]
+[[hcell|style="width:140px"]]
+[[File: Young_Passage_icon.png width="120px" link="Young Passage"]]
+[[hcell]]
+
+|-
+|
+[[丛生|丛生]]
+|
+|
+[[白色房间|白色房间]]
+|
+|
+[[胎内迷宫|胎内迷宫]]
+|
+|
+[[青涩通道|青涩通道]]
+|
+
+|}
+
+[[module|css]]
+@media screen and (max-device-width:500px) , screen and (orientation:portrait) {
+    #page-content th, #page-content img {
+        width: 96px;
+        font-size: 8px;
+    }
+}
+[[[module]]

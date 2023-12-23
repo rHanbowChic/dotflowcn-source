@@ -4,26 +4,26 @@
 |-
 |!! ^^变成电视的铁锈子^^ 
 |}
-[[/div]]
-'''“电视”'''（テレビ）效果可以将铁锈子的头变成一台老式电视机，可以帮助玩家寻找物件或规避一些角色。该效果可以在[[machine-nation|]]中找到。
+[[div]]
+'''“电视”'''（テレビ）效果可以将铁锈子的头变成一台老式电视机，可以帮助玩家寻找物件或规避一些角色。该效果可以在[[[machine-nation|]]中找到。
 
-=== 指南 ===
-* [[Entrance|]] > [[Utility Pole World|]] > [[Apartments|]] > [[Cloud World|]] > [[Famicom World|]] > [[Machine Nation|]]
+===|指南 ===
+* [[Entrance|]]] > [[Utility Pole World|]] > [[Apartments|]] > [[Cloud World|]] > [[Famicom World|]] > [[Machine Nation|]]
 
 进入机械民族后，先进入另一侧唯一的台阶，然后是西南侧、东南侧，最后往东走，你应该会看到一台老式电视。与之互动即可得到“电视”效果。
 
 === 视频指南 ===
 [[embedvideo]]
 <iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280456734&page=24" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-[[/embedvideo]]
+[[embedvideo]]
 
-=== 备考 ===
+===|备考 ===
 * 在装备该效果时选择醒来的话，铁锈子不会捏脸，而是会按下电视机的开关。
 * 在ver 0.15的源文件中出现了一些未使用的图像。
 * 电视开机{{Shift}}时会显示一张图像，代表了此区域的状态。这样的图像共有十种。
 ** 普通情况下：铁锈子的脸，铁锈子的痛苦脸，两颗橙色星星，义足子的脸，两个角落有血迹的黑色图像，彩虹色的混杂图像。
 ** 当区域里有可收集的效果：一个昏暗的白色光点。
-** 当区域里有[[kaibutsu|]]时：敌对怪物的嘴。
+** 当区域里有[[[kaibutsu|]]]时：敌对怪物的嘴。
 ** 当区域里有[[fetuses|]]时：满屏幕的锈迹，或是血迹。
 ** 当区域里有[[little-sabitsuki|]]，或在前往[[empty-boxes|]]收集地的必经之路时：锖受伤时的脸。
 
@@ -36,120 +36,120 @@
 |-
 [[hcell style="width:50px"]]
 [[File: tvsabitsuki.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvsabitsukiscared.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvstars.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvgisokuko.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvbloodycorners.png width="50px"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |
 普通的铁锈子
-
+|
 |
 痛苦的铁锈子
-
+|
 |
 两颗橙色星星
-
+|
 |
 义足子
-
+|
 |
 带血的角落
-
+|
 
 |-
-[[hcell style="width:50px"]]
+[[hcell|style="width:50px"]]
 [[File: tvsth.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvspark.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvkaibutsu.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvrust.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvblood.png width="50px"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |
 彩虹图像
-
+|
 |
 白色光点
-
+|
 |
 敌对怪物的嘴
-
+|
 |
 受伤的锖
-
+|
 |
 满屏血迹
-
+|
 
 |}
-==== FC ====
+====|FC ====
 {|
 |-
 [[hcell style="width:50px"]]
 [[File: tvsabitsukifc.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvsabitsukiscaredfc.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvstarsfc.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvgisokukofc.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvbloodycornersfc.png width="50px"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |
 普通的铁锈子
-
+|
 |
 痛苦的铁锈子
-
+|
 |
 两颗橙色星星
-
+|
 |
 义足子
-
+|
 |
 带血的角落
-
+|
 
 |-
-[[hcell style="width:50px"]]
+[[hcell|style="width:50px"]]
 [[File: tvsthfc.png width="50px"]]
-[[/hcell]]
-[[hcell style="width:50px"]]
+[[hcell]]
+[[hcell|style="width:50px"]]
 [[File: tvsparkfc.png width="50px"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |
 彩虹图像
-
+|
 |
 白色光点
 

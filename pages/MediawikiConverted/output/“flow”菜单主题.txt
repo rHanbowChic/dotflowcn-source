@@ -1,0 +1,14 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: flow-menu.png size="small"]] 
+|-
+|!! ^^“flow”菜单主题示例^^ 
+|}
+[[[div]]
+'''“flow”'''菜单主题是游戏默认的菜单主题。
+
+===|指南 ===
+该主题在开始游戏时便会获得。如果菜单主题被替换了而玩家想要将它换回来，那么只需要与[[学校 学校]]前台的[[怪物|怪物]]互动就可以了。
+
+=== 备考 ===
+* 尽管该主题在[[debug-room|调试房]]中被称作“flow”，其源文件名称被直接命名为“system.png”。

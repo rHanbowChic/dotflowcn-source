@@ -1,0 +1,62 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: lol.jpg width="300px"]] 
+|-
+|!! ^^戴着防毒面具的身身身^^ 
+|}
+[[div]]
+'''身身身'''（lol_rust）是《.flow》的作者。他的生日在7月30日。[[footnote]]|[https://twitter.com/lol_rust/status/1131908686513754112 “对，7月30号是我的生日”]] [[[footnote]]|2012年时他曾表示自己住在东京，但现居住地未知。[[footnote]] [https://web.archive.org/web/20120404171752/http://theinterviews.jp/lol_rust theinterviews.jp上关于lol_rust的采访] [[footnote]]|他在2019年2月5日结婚了。 [[footnote]] [https://twitter.com/lol_rust/status/1094239402383949824 一条“進捗”推文] [[footnote]]
+
+他的昵称——lol，lol_rust和“身身身”——全部是小写的，其中“lol”在日语中读作“ロル”（roru）。在欧美网络文化圈中，lol是“laugh|out loudly”的缩写，意为“笑死了”，这也是他最喜欢的网络用语。[[footnote]] [https://web.archive.org/web/20150717165400/http://theinterviews.jp/lol_rust/2030263 theinterviews.jp上关于lol_rust的提问] [[[footnote]]
+
+===|游戏 ===
+* '''《.flow》''' - 梦日记派生向“行走模拟器”
+** 於2009年2月15日發布。
+** 於2019年5月27日最後一次更新。
+* '''《少女奇談》''' (Shōjo Kidan) - RPGMaker恐怖游戏
+** 於2013年11月4日發布。
+** 於2016年9月20日最後一次更新。
+* '''《少女偽談》''' (Shōjo Gidan) - RPGMaker恐怖游戏，《少女奇談》续作
+** 於2016年4月12日發布。
+** 於2022年9月13日最後一次更新。
+* '''《Milya》''' - 探索向恐怖游戏
+** 於2017年1月26日發布。
+** 與2017年5月16日最後一次更新。
+* '''《なんかのゲーム》''' - 一款小遊戲。
+** 於2017年6月25日發布。
+** 於2019年5月31日最後一次更新。
+* '''《AruMa KeteRa》''' - 横版卷轴弹幕游戏
+** 於2019年3月4日更新。
+** 與2019年6月20日最後一次更新。
+* '''《Milya[broken]]》''' - 解谜向恐怖游戏，《Milya》续作
+** 於2020年3月27日發布。
+** 於2020年10月15日最後一次更新。
+
+=== 备考 ===
+* 橙色似乎是身身身最喜欢的颜色。
+* 身身身很喜欢《梦日记》中的モノ子。
+** ''“モノ子ッッ可愛いよかわいいいよォモノ子ォォァアアアアッアァッッ！！！”——身身身，readme.txt''
+* 身身身在创作《.flow》时从asgr的作品中汲取了灵感。[[footnote]] [https://uboachan.net/flow/res/901.html Uboachan有关asgr的讨论串] [[[footnote]]
+|* 在《.flow》的[[submarine-world 海底世界]]中、[[潜水子|潜水子]]的家里有一台巨型橙色机器，其形象与Pixiv画师[[https://www.pixiv.net/member.php?id=4357166|asgr]]的早期作品类似。
+** ''“说起来，这个机械是受到了某个画师的影响。还挺那啥的（笑）。”——身身身''
+* 身身身曾在实况中提及过最喜欢的《.flow》地图，并描述了自己制作《.flow》时的想法：
+** ''“我最喜欢的地图是医院周边的地图……还有在那之后医院地下的地图我比较喜欢吧，那边感觉就是‘哇到了一个不妙的地方’。这种感觉时不时冒出来，挺不错呢。 _
+“我在玩《梦日记》时的感想就是‘总感觉不妙’，所以在做《.flow》的时候就想要体现这种‘不妙’的感觉。所以最满意的部分就是这种地图。”——身身身''
+* 身身身是白发控，但并不很区别白发和银发。
+** ''“是的，因为我喜欢白发。有点自己癖好、有些特殊的理由在里面；这就先放一边了……是因为我喜欢白发呢。白发真好呢（笑）。 _
+“说起来刚开始做《.flow》的时候，其实一开始的主人公并不是铁锈子哦？完全是其他的女孩子，发型也是黑长直。结果把她放进游戏里走动的时候……因为背景是全黑的感觉不是很合（笑）。会和背景融合在一起，所以……‘那，就做个白发的孩子吧！’（笑）。之后用的就是铁锈子了呢。”——身身身''
+
+=== 相关链接 ===
+[[div style="float:right; margin:0 2em 1em 2em; width:150px; border:0;"]]
+{| class="wikitable"
+||| [[File: lol_logo.jpg width="150px"]] 
+|-
+|!! ^^身身身在视频中用的logo^^ 
+|}
+[[[div]]
+*|[http://118.27.39.63/ 主页]]
+* [http://www.pixiv.net/member.php?id=269411 Pixiv画师主页]
+* [http://lolrust.deviantart.com/ DeviantArt作者主页]
+* [https://twitter.com/lol_rust Twitter账号]
+* [http://lol-rust.tumblr.com/ Tumblr账号]
+* [https://www.youtube.com/c/mimimi-chan Youtube账号]

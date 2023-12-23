@@ -4,11 +4,11 @@
 |-
 |!! ^^笑颜^^ 
 |}
-[[/div]]
-'''笑颜'''（smile）是出现在[[neighborhood|]]、[[school|]]、[[corrupted-school|]]和[[disposal|]]的NPC，[[tattoo|]]与[[smile-menu|]]的给予者。这名黑发少年在各个地点有不同的外观。
+[[div]]
+'''笑颜'''（smile）是出现在[[[neighborhood|]]、[[school|]]、[[corrupted-school|]]和[[disposal|]]的NPC，[[tattoo|]]与[[smile-menu|]]的给予者。这名黑发少年在各个地点有不同的外观。
 
-=== 指南 ===
-* [[entrance|]] > [[music-world|]] > [[connecting-tile-path|]] > [[white-room|]] > [[blood-maze|]] > [[insides|]] > [[sewers|]] > [[wastewater-lake|]] > [[neighborhood|]] (> [[school|]])
+===|指南 ===
+* [[entrance|]]] > [[music-world|]] > [[connecting-tile-path|]] > [[white-room|]] > [[blood-maze|]] > [[insides|]] > [[sewers|]] > [[wastewater-lake|]] > [[neighborhood|]] (> [[school|]])
 * [[entrance|]] > [[dysmorphic-world|]]
 * [[entrance|]] > [[utility-pole-world|]] > [[apartments|]] > [[snow-world|]] > [[disposal|]]
 
@@ -38,20 +38,20 @@
 |-
 [[hcell style="width:250px"]]
 [[File: Oniisan.jpg size="small"]]
-[[/hcell]]
-[[hcell style="width:250px"]]
+[[hcell]]
+[[hcell|style="width:250px"]]
 [[File: Smile-closeup.png size="small"]]
-[[/hcell]]
-[[hcell style="width:250px"]]
+[[hcell]]
+[[hcell|style="width:250px"]]
 [[File: Smile-closeup2.png size="small"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |
 Oniisan，作者：[[lol|]]
-
 |
-
+|
+|
 |
 
 

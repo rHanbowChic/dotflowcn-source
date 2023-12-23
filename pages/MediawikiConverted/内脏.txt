@@ -4,10 +4,10 @@
 |-
 |!! ^^流出内脏的铁锈子^^ 
 |}
-[[/div]]
+[[div]]
 '''“内脏”'''（ないぞう）效果会让铁锈子的内脏破腹流出。就像其他许多效果一样，该效果只是装饰性效果，并不会给铁锈子某种附加能力。铁锈子可以尝试收拾自己的内脏{{Shift}}，但这无济于事。
 
-这个效果可以在[[Womb Maze|]]中通过与[[onigo|]]的尸体互动获得。
+这个效果可以在[[[Womb|Maze|]]]中通过与[[onigo|]]的尸体互动获得。
 
 === 指南 ===
 * [[Entrance|]] > [[Music World|]] > [[Connecting Tile Path|]] > [[White Room|]] > [[Blood Maze|]] > [[Insides|]] > [[Flesh Walls|]] > [[Womb Maze|]]

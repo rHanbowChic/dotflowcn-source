@@ -1,26 +1,27 @@
 [[div class="warning" style="width:80%;margin-bottom:1em;"]]
 
-[[size 170%]]本维基仍在建设中！[[/size]]
+[[size 170%]]本维基仍在建设中！[[size]]
 
-参考站点 / Reference：[http://dotflow.wikidot.com/ .flow Wiki]
+参考站点|/ Reference：[http://dotflow.wikidot.com/ .flow Wiki]]
 起始日期 / Date Begun：2022/07/12
 总任务数 / Total：约150个页面
 —— Work in Progress ——
 > ''交流群 / QQ Group：778730020''
 ------
-''[[size 70%]]管理员学业繁忙，恳请各位帮助建设！[[/size]]''
+''[[size 70%]]管理员学业繁忙，恳请各位帮助建设！[[[size]]''
 [[/div]]
 
-[[div style="float:right; margin:0 1em 0 .5em; width:250px; border:0;"]]
+[[div|style="float:right; margin:0 1em 0 .5em; width:250px; border:0;"]]
 {|
 |-
 [[hcell]]
 [[File: flow_title_screen.png width="240px" link="http://dotflowcn.wdfiles.com/local--files/start/flow_title_screen.png"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |
 [[module rate]]
+|
 
 |}
 [[/div]]
@@ -30,19 +31,19 @@
 
 '''《.flow》'''的第一个版本发行于2009年的2月15日。在迄今为止的二十次更新中，这个游戏已经取得了长足的进步。
 
-'''《.flow》'''的故事发生在一场漆黑的梦中。这个游戏并没有确切的目标，玩家能做的只有独自探索游戏中的锈蚀世界。[[Beginning .flow|开始游戏]]后，玩家将作为[[sabitsuki|]]在[[Sabitsuki's Room|她的房间]]——也就是游戏的初始区域里醒来，此时铁锈子会拒绝离开房间。她可以选择玩[[Shinsoku Neko|主机游戏]]，上床睡觉（并存档），或者用她的电脑进入flow状态。值得注意的是，铁锈子的房间可能会随着flow的持续进行而改变外观。她的房间同样是flow状态的起始区域；但此时铁锈子将可以离开房间并进入[[Entrance|]]，一个连通了无限世界的枢纽。
+'''《.flow》'''的故事发生在一场漆黑的梦中。这个游戏并没有确切的目标，玩家能做的只有独自探索游戏中的锈蚀世界。[[[Beginning|.flow|开始游戏]]]后，玩家将作为[[sabitsuki|]]在[[Sabitsuki's Room|她的房间]]——也就是游戏的初始区域里醒来，此时铁锈子会拒绝离开房间。她可以选择玩[[Shinsoku Neko|主机游戏]]，上床睡觉（并存档），或者用她的电脑进入flow状态。值得注意的是，铁锈子的房间可能会随着flow的持续进行而改变外观。她的房间同样是flow状态的起始区域；但此时铁锈子将可以离开房间并进入[[Entrance|]]，一个连通了无限世界的枢纽。
 
 在flow状态期间，铁锈子可以收集许多[[effects|“效果”]]。其中，有些效果只是装饰性的，比如为铁锈子换上一条漂亮的[[dress|裙子]]；而有些效果则可以提供一些切实的功能，比如让铁锈子骑上一柄[[broom|双倍速扫帚]]。这些状态可以通过菜单{{X}}来装备，并可使用行动键{{Shift}}触发。铁锈子同样会遇见许多[[characters|角色]]，并且可以通过互动{{Z}}来与之交流。值得注意的是，手持[[Iron Pipe|武器]]进行互动往往不是个好主意。大部分角色会无视铁锈子，但是某些敌对的[[Kaibutsu|怪物]]会追逐她，并将她传送到一个密闭的房间中。当然这并不意味着铁锈子将被永远困在这里——玩家只需要在菜单{{X}}中选择唤醒铁锈子便可结束这次flow。
 
 每次flow都是独一无二的。每当铁锈子尝试进入flow状态，“某些东西”都会被改变，在不同的地点触发随机的[[events|事件]]——也许是一个四处游荡的[[Oreko|小女孩]]，也许是一个时不时光临[[Sugar Hole|酒吧]]的[[Sugar Hole Kaibutsu|新人物]]；有时攻击[[Reverse Apartments|公寓楼]]墙上的涂鸦会为你打开一条通往[[Childbirth|某个令人不适的地点]]的途径，有时[[sewers|下水道]]里会出现一扇多余的格栅门，并能将你带到[[Blood, Pus, Rust|“别的地方”]]。甚至只是捣鼓铁锈子房间里的电视机也可能导致[[Kaibutsu TV channel|出乎意料的后果]]。
 
 [[module ListPages category="_default" tags="结局" order="random" limit="1" ]]
-尽管收集所有的效果将会将铁锈子导向不同的[/%%page_name%% 结局]，但'''《.flow》'''的内容远不止于操控铁锈子机械地走向终结。归根结底，比起一味地收集各种效果，静下心来体验'''《.flow》'''所带来的、梦境交织的迷幻之感或许才是游戏的真正目的。
-[[/module]]
+尽管收集所有的效果将会将铁锈子导向不同的[[%%page_name%%|结局]]，但'''《.flow》'''的内容远不止于操控铁锈子机械地走向终结。归根结底，比起一味地收集各种效果，静下心来体验'''《.flow》'''所带来的、梦境交织的迷幻之感或许才是游戏的真正目的。
+[[module]]
 ------
-= [[size smaller]][http://118.27.39.63/game/dotflow/ 《.flow》是为一条“ゆめにっきっぽいゲーム作るスレ”讨论串所做。本游戏只是《梦日记》的派生作品，与《梦日记》及其作者ききやま并无直接关联。][[/size]]
+=|[[size smaller]][http://118.27.39.63/game/dotflow/ 《.flow》是为一条“ゆめにっきっぽいゲーム作るスレ”讨论串所做。本游戏只是《梦日记》的派生作品，与《梦日记》及其作者ききやま并无直接关联。][[size]]
 
-[[module css]]
+[[module|css]]
 .page-rate-widget-box .rate-points {
     background-color: transparent !important;
     color: #380000 !important;

@@ -4,8 +4,8 @@
 |-
 ! ^^雪原与幻想迷宫中的小铁锈子^^ 
 |}
-[[/div]]
-'''小铁锈子'''是出现在[/snow-world 雪原]、[/illusionary-corridors 幻想迷宫]和[/back-ward 里病栋]的NPC，同时也是[[0-16-event|Ver. 0.16]]的主人公。她是[/rust-menu “锈蚀”菜单主题]的给予者。小铁锈子身形娇小，在里病栋、幻想迷宫和0.16事件中穿着与[/hospital-children 医院孩童]们相似的病号服，在雪原中则穿着铁锈子的衣服、戴着橙色围巾。
+[[div]]
+'''小铁锈子'''是出现在[/snow-world|雪原]]、[[illusionary-corridors|幻想迷宫]]和[[back-ward|里病栋]]的NPC，同时也是[[[0-16-event|Ver. 0.16]]的主人公。她是[[rust-menu|“锈蚀”菜单主题]]的给予者。小铁锈子身形娇小，在里病栋、幻想迷宫和0.16事件中穿着与[[hospital-children|医院孩童]]们相似的病号服，在雪原中则穿着铁锈子的衣服、戴着橙色围巾。
 
 === 指南 ===
 * [[entrance|]] > [[utility-pole-world|]] > [[apartments|]] > [[snow-world|]] [> [[illusionary-corridors|]] (> [[back-ward|]])]
@@ -34,23 +34,22 @@
 |-
 [[hcell style="width:300px"]]
 [[File: 0.png size="small"]]
-[[/hcell]]
-[[hcell style="width:300px"]]
+[[hcell]]
+[[hcell|style="width:300px"]]
 [[File: 50.png size="small"]]
-[[/hcell]]
-[[hcell style="width:300px"]]
+[[hcell]]
+[[hcell|style="width:300px"]]
 [[File: 100.png size="small"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |
 健康
-
+|
 |
 生病
-
+|
 |
 重恙
-
 
 |}

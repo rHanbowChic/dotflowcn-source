@@ -1,0 +1,25 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image Broom_Effect.png width="62px"]] 
+|-
+|!! ^^骑着扫帚的魔女铁锈子^^ 
+|}
+[[div]]
+'''“扫帚”'''（ほうき）效果可以让铁锈子穿上魔女服并骑上扫帚，将移速提升至两倍。这个效果可通过与[[[famicom-world]]的魔女互动来获取。
+
+===|指南 ===
+* [[entrance]]] > [[utility-pole-world]] > [[apartments]] > [[cloud-world]] > [[famicom-world]]
+
+从云进入FC后径直往上走，进入魔女之屋，你会看到魔女正在四处走动（或者炼药）。与之互动即可得到“幽灵”效果。
+
+=== 视频指南 ===
+[[embedvideo]]
+<iframe src="''player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280114714&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>[[[embedvideo]]
+
+=== 备考 ===
+* 铁锈子也可以徒步行走{{Shift}}，此时移速复原。
+* 该状态下铁锈子的穿着就如同《魔女宅急便》中的琪琪一般。
+** ''“哦！可爱耶……虽然可爱但是脚步声……感觉会有点寂寞呢？就是这样的效果。”——身身身//
+
+=== 推测 ===
+* 从缺……

@@ -4,15 +4,15 @@
 |-
 |!! ^^茶点^^ 
 |}
-[[/div]]
-'''茶点'''是出现在[/reverse-apartment 里公寓]、[/hole-in-girl hole in girl]和[/deterioration 荒废]的NPC。这名穿着米黄色连衣裙的黑发女孩在三个地点分别以三个年龄的形象出现。她对任何效果没有反应，用[/iron-pipe 铁管]杀死后也不会发生特别的事。不过她死后不会在重进房间时复活。
+[[[div]]
+'''茶点'''是出现在[/reverse-apartment|里公寓]]、[[hole-in-girl|hole in girl]]和[[deterioration|荒废]]的NPC。这名穿着米黄色连衣裙的黑发女孩在三个地点分别以三个年龄的形象出现。她对任何效果没有反应，用[[iron-pipe|铁管]]杀死后也不会发生特别的事。不过她死后不会在重进房间时复活。
 
 === 指南 ===
-* [/entrance 入口] > [/ultility-pole-world 电线杆] > [/apartments 公寓] > [/cloud-world 云] > [/reverse-apartments 里公寓]
-* [/entrance 入口] > [/dysmorphic-World 畸形] > [/footprint-Path 足迹] > [/rainbow-maze 彩虹] > [/psychedelic-town 迷幻街道] > [/sugar-hole Sugar Hole] > [/hole-in-girl hole in girl]
-* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartment 公寓] > [/snow-world 雪原] > [/disposal 处置] > [/deterioration 荒废]
+* [[entrance|入口]] > [[ultility-pole-world|电线杆]] > [[apartments|公寓]] > [[cloud-world|云]] > [[reverse-apartments|里公寓]]
+* [[entrance|入口]] > [[dysmorphic-World|畸形]] > [[footprint-Path|足迹]] > [[rainbow-maze|彩虹]] > [[psychedelic-town|迷幻街道]] > [[sugar-hole|Sugar Hole]] > [[hole-in-girl|hole in girl]]
+* [[entrance|入口]] > [[utility-pole-world|电线杆]] > [[apartment|公寓]] > [[snow-world|雪原]] > [[disposal|处置]] > [[deterioration|荒废]]
 
-要想在里公寓中见到茶点，需要先触发[/sugar-float-days sugar float days]事件。具体的方法是在[/sugar-hole Sugar Hole]享用十份小蛋糕后与任意一名[/gas-mask-maids 防毒面具女仆]互动。这个事件呈现了[/sabitsuki 铁锈子]和茶点一起进下午茶的画面。
+要想在里公寓中见到茶点，需要先触发[[sugar-float-days|sugar float days]]事件。具体的方法是在[[sugar-hole|Sugar Hole]]享用十份小蛋糕后与任意一名[[gas-mask-maids|防毒面具女仆]]互动。这个事件呈现了[[sabitsuki|铁锈子]]和茶点一起进下午茶的画面。
 
 在hole in girl的尽头有一座名为hill的悬崖，茶点就静静地站在悬崖末端一动不动。她被巨大的大理石手臂雕像围绕着，无法接近。
 
@@ -21,7 +21,7 @@
 === 备考 ===
 * 实际上，茶点在游戏代码和文件中并没有名字。
 * 茶点有完整的行走动画文件，但并没有被使用。
-* 茶点的形象与[/lol 身身身]的其他游戏《少女奇谈》和《少女伪谈》中的主人公极其相似。
+* 茶点的形象与[[lol|身身身]]的其他游戏《少女奇谈》和《少女伪谈》中的主人公极其相似。
 
 === 推测 ===
 * sugar float days可能是铁锈子童年的家，而茶点则是她的朋友或亲人。

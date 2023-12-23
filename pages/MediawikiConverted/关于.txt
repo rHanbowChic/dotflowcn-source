@@ -8,14 +8,14 @@
 '''目前状态：建设中'''
 [[div class="progress-bar"]]
 [[div class="progress-done animated"]]
-[[/div]]
+[[div]]
 [[/div]]
 '''交流群：778730020'''
 ----
 ''以下排名不分先后''
 @@@@
 '''朋友们'''
-[[*user pbplankin]]
+[[*user|pbplankin]]
 [[*user yuni811]]
 [[*user asaerror]]
 [[*user virusjoe]]
@@ -31,8 +31,8 @@
 [*https://space.bilibili.com/18317455 甜魚餅]
 [*https://space.bilibili.com/172413936 盾勇十代目]
 以及热爱着梦日记与派生的各位！
-[[/=]]
-[[module css]]
+[[=]]
+[[module|css]]
 .progress-bar {height:1em;width:80%;margin:0 auto;padding:0;border:2px solid #3f0b00;border-radius:1em;background-color:#ddd;overflow:hidden;}
 
 .progress-done {height:1em;width:65%;margin:0;padding:0;border-radius:1em 0 0 1em;background-color:#6b3333;background-image:linear-gradient(to right , #5a0000 , #6b0000 , #5a0000 , #6b0000 , #5a0000 , #6b0000 , #5a0000 , #6b0000);}

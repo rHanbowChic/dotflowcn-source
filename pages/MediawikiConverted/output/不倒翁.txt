@@ -1,0 +1,26 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image Daruma_Effect.png width="72px"]] 
+|-
+|!! ^^失去四肢的铁锈子^^ 
+|}
+[[div]]
+'''“不倒翁”'''（だるま）效果会将铁锈子断肢，使之血流不止，并将铁锈子的移速减半。铁锈子摔倒{{Shift}}后会挣扎着爬行，此时移速将进一步减为四分之一。该效果可在[[[cleaner-world]]中找到。
+
+===|指南 ===
+* [[entrance]]] > [[utility-pole-world]] > [[apartments]] > [[cloud-world]] > [[Reverse-Apartments]] > [[sugar-hole]] > [[cleaner-world]]
+
+在得到“不倒翁”效果之前，从Sugar Hole进入扫除总会将你送至第二部分。朝着南-东-南的方向走U字形路线（小心[[怪物|敌对怪物]]），然后向北走，在第一个路口向西北（偏北）走，接着往前，走进一条仅两格宽的小道。在道路尽头有一名[[gas-mask-maids]]，身边有一把电锯。与之互动即可得到“不倒翁”效果。
+
+=== 视频指南 ===
+[[embedvideo]]
+<iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280117702&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[[embedvideo]]
+
+===|备考 ===
+* 这个效果是以[https://baike.baidu.com/item/达摩不倒翁 达摩不倒翁]]来命名的。达摩不倒翁是日本传统玩具，形态为没有手脚的达摩禅师，而他是佛教禅宗创始人。据日本传说他曾面壁九年，历经七灾八难，直至手脚萎缩脱落，最后成功参悟。参见[https://baike.baidu.com/item/达摩面壁 达摩面壁]。
+
+=== 推测 ===
+* “不倒翁”效果的外观契合了游戏可能的主题，即极端的人体改造。
+* 该效果可能表明了截肢是治疗铁锈子疾病的替代解决方案。
+* 该效果似乎是[[[结局：锈蚀|铁锈子最终命运]]的预示与缩影。

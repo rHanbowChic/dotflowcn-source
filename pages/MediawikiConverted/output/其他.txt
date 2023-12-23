@@ -1,0 +1,40 @@
+[[div class="mobile"]]
+
+[[File: about-lol-cn.jpg  link="/lol"]]
+
+[[File: friendship-counter-cn.png link="/friendship-counter"]]
+
+[[File: erosion-counter-cn.png link="/erosion-counter"]]
+
+[[File: glitches-cn.png link="/glitches"]]
+
+[[File: menu-types-cn.png link="/menu-types"]]
+
+[[File: shinsoku-neko-cn.png link="/shinsoku-neko"]]
+
+[[div]]
+
+[[div|class="extras"]]
+[[File: about-lol-cn.jpg  link="/lol"]][[File: friendship-counter-cn.png link="/friendship-counter"]][[File: erosion-counter-cn.png link="/erosion-counter"]]
+[[File: glitches-cn.png link="/glitches"]][[File: menu-types-cn.png link="/menu-types"]][[File: shinsoku-neko-cn.png link="/shinsoku-neko"]]
+[[div]]
+
+[[module|css]]
+#page-content {width:100%;}
+.mobile, .extras{
+  border-top: #380000 4px dotted;
+  border-bottom: #380000 4px dotted;
+  width: 100%;
+}
+.extras a {display:inline-block;width: 33%;}
+.mobile a {display:block;width: 60%;}
+.extras img, .mobile img {display:block;width: 100%;}
+.mobile a:nth-child(odd) , .mobile img:nth-child(odd){align-self:flex-end;}
+.mobile a:nth-child(even) , .mobile img:nth-child(even){align-self:flex-start;}
+
+.mobile {display:none;flex-direction: column;}
+@media screen and (max-device-width:500px) , screen and (orientation:portrait) {
+  .mobile {display: flex;}
+  .extras {display: none;}
+}
+[[[module]]

@@ -12,14 +12,14 @@
 
 [[File: shinsoku-neko-cn.png link="/shinsoku-neko"]]
 
-[[/div]]
+[[div]]
 
-[[div class="extras"]]
+[[div|class="extras"]]
 [[File: about-lol-cn.jpg  link="/lol"]][[File: friendship-counter-cn.png link="/friendship-counter"]][[File: erosion-counter-cn.png link="/erosion-counter"]]
 [[File: glitches-cn.png link="/glitches"]][[File: menu-types-cn.png link="/menu-types"]][[File: shinsoku-neko-cn.png link="/shinsoku-neko"]]
-[[/div]]
+[[div]]
 
-[[module css]]
+[[module|css]]
 #page-content {width:100%;}
 .mobile, .extras{
   border-top: #380000 4px dotted;

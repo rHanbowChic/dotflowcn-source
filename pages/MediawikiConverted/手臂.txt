@@ -4,8 +4,8 @@
 |-
 |!! ^^多臂的铁锈子^^ 
 |}
-[[/div]]
-'''“手臂”''' （うで）效果可以让[[sabitsuki|]]在任何时候返回[[entrance|]]{{Shift}}，即使被[[kaibutsu|]]传送到了不能逃脱的房间也能以此逃脱。这种效果会给铁锈子五只手臂，在铁锈子回程时手臂会被收回。通过在[[microorganism-world|]]找到一只从地底伸出来的手臂并且与它互动就可以获得手臂效果。
+[[div]]
+'''“手臂”'''|（うで）效果可以让[[[sabitsuki|]]]在任何时候返回[[entrance|]]{{Shift}}，即使被[[kaibutsu|]]传送到了不能逃脱的房间也能以此逃脱。这种效果会给铁锈子五只手臂，在铁锈子回程时手臂会被收回。通过在[[microorganism-world|]]找到一只从地底伸出来的手臂并且与它互动就可以获得手臂效果。
 
 === 指南 ===
 * [[Entrance|]] > [[Music World|]] > [[Connecting Tile Path|]] > [[White Room|]] > [[Submarine World|]] > [[Electric World|]] > [[Microorganism World|]]
@@ -16,13 +16,13 @@
 
 [[html]]
 <iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280121458&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-[[/html]]
+[[html]]
 
-=== 备考 ===
+===|备考 ===
 * 该效果对应《梦日记》中的“眼珠手”效果。
 * 这个效果似乎致敬了《梦日记》中的モノ子。
 ** 在《梦日记》黑白世界里的モノ子附近使用“红绿灯”效果后，モノ子会变成有五只手臂的样子。
-** [[lol|]]很喜欢モノ子。
+** [[[lol|]]]很喜欢モノ子。
 *** 在readme.txt的末尾隐藏着一行“モノ子ッッ可愛いよかわいいいよォモノ子ォォァアアアアッアァッッ！！！”。
 === 推测 ===
 * 从缺……

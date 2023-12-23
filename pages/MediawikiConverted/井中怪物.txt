@@ -1,10 +1,10 @@
 每次进入flow时游戏都会进行一次随机得数，若1d100>70则可触发'''“井中怪物”'''事件。
 
-事件触发后，[/famicom-world FC]中魔女房子南边的水井里将会出现一名[/kaibutsu 怪物]。这名怪物除了外观FC化以外，与普通的怪物没有任何异处。
+事件触发后，[[famicom-world|FC]]中魔女房子南边的水井里将会出现一名[[kaibutsu|怪物]]。这名怪物除了外观FC化以外，与普通的怪物没有任何异处。
 
 === 指南 ===
-* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/cloud-world 云] > [/famicom-world FC]
-除了靠运气roll到正确的数值以外，还要激怒任意一名中立怪物才能真正触发该事件（除了[/blood-maze 血液]中的那名）。
+* [[entrance|入口]] > [[utility-pole-world|电线杆]] > [[apartments|公寓]] > [[cloud-world|云]] > [[famicom-world|FC]]
+除了靠运气roll到正确的数值以外，还要激怒任意一名中立怪物才能真正触发该事件（除了[[blood-maze|血液]]中的那名）。
 
 === 备考 ===
 * 从缺……

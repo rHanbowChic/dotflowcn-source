@@ -1,0 +1,14 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: fc-menu.png size="small"]] 
+|-
+|!! ^^“FC”菜单主题示例^^ 
+|}
+[[[div]]
+'''“FC”'''菜单主题是游戏预设的菜单主题之一，由[https://zh.moegirl.org.cn/RPG制作大师#RPG_Maker_2000|RPG制作大师2000]]原主题改造而成。
+
+=== 指南 ===
+该主题在开始游戏时便会获得。如果玩家想要使用该主题，那么只需要与[[学校|学校]]前台的[[怪物|怪物]]互动就可以了。
+
+=== 备考 ===
+* [[《神速猫》|《神速猫》]]使用了该主题。

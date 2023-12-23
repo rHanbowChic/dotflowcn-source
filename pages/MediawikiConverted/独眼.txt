@@ -4,12 +4,12 @@
 |-
 |!! ^^独眼铁锈子^^ 
 |}
-[[/div]]
+[[div]]
 
-'''“独眼”'''（モノアイ）效果会将铁锈子的五官变成一只红色巨眼。这个效果可以在[[dysmorphic-world|]]中找到。
+'''“独眼”'''（モノアイ）效果会将铁锈子的五官变成一只红色巨眼。这个效果可以在[[[dysmorphic-world|]]中找到。
 
-=== 指南 ===
-* [[entrance|]] > [[dysmorphic-world|]]
+===|指南 ===
+* [[entrance|]]] > [[dysmorphic-world|]]
 
 向着东北方一直走，直到你看见三个雕塑：左边是只有嘴的恶魔，右边是只有眼的恶魔，中间是带血的雕塑。与被它们围绕的眼珠互动即可得到“独眼”效果。
 
@@ -19,11 +19,11 @@
 
 <iframe src="''player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280119675&page=6" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-[[/html]]
+[[html]]
 
-=== 备考 ===
+===|备考 ===
 * 按下行动键{{Shift}}后，铁锈子会转向玩家并眨两下眼。
-* 在[[apartments|]]的下行楼道里有一只红色巨眼涂鸦。如果在那里眨眼{{Shift}}，则墙上的涂鸦会和铁锈子一起眨眼。
+* 在[[[apartments|]]]的下行楼道里有一只红色巨眼涂鸦。如果在那里眨眼{{Shift}}，则墙上的涂鸦会和铁锈子一起眨眼。
 ** ''“可爱！（笑）……独眼很好吧？我也想稍微变成一下独眼诶。但是我没有那个能力！”——身身身//
 === 推测 ===
 * 从缺……
@@ -33,7 +33,7 @@
 |-
 [[hcell style="width:250px"]]
 [[File: Mono_Eye_Illustration.jpg width="200px"]]
-[[/hcell]]
+[[hcell]]
 
 |-
 |

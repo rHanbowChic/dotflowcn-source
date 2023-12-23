@@ -1,0 +1,28 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image http://dotflow.wikidot.com/local--files/arms/Arms_Effect.png width="76px"]] 
+|-
+|!! ^^多臂的铁锈子^^ 
+|}
+[[div]]
+'''“手臂”'''|（うで）效果可以让[[[sabitsuki]]]在任何时候返回[[entrance]]{{Shift}}，即使被[[kaibutsu]]传送到了不能逃脱的房间也能以此逃脱。这种效果会给铁锈子五只手臂，在铁锈子回程时手臂会被收回。通过在[[microorganism-world]]找到一只从地底伸出来的手臂并且与它互动就可以获得手臂效果。
+
+=== 指南 ===
+* [[Entrance]] > [[Music World]] > [[Connecting Tile Path]] > [[White Room]] > [[Submarine World]] > [[Electric World]] > [[Microorganism World]]
+* [[Entrance]] > [[Music World]] > [[Connecting Tile Path]] > [[White Room]] > [[Blood Maze]] > [[Insides]] > [[Sewers]] > [[Orange Maze]] > [[Orange Passage]] > [[Young Passage]] > [[Microorganism World]]
+在微生物时，一直向北走，直到找到第一个类似雪花的东西，此时点击它你就可以走出小路。此时离开小路，向西走直到找到另一条在北面与东面有突起的小路。再'''直直地'''沿这条小路向北走，就应该能找到触发效果的手臂了。
+
+=== 视频指南 ===
+
+[[html]]
+<iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280121458&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[[html]]
+
+===|备考 ===
+* 该效果对应《梦日记》中的“眼珠手”效果。
+* 这个效果似乎致敬了《梦日记》中的モノ子。
+** 在《梦日记》黑白世界里的モノ子附近使用“红绿灯”效果后，モノ子会变成有五只手臂的样子。
+** [[[lol]]]很喜欢モノ子。
+*** 在readme.txt的末尾隐藏着一行“モノ子ッッ可愛いよかわいいいよォモノ子ォォァアアアアッアァッッ！！！”。
+=== 推测 ===
+* 从缺……

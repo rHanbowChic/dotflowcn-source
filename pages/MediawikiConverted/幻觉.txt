@@ -4,11 +4,11 @@
 |-
 |!! ^^幻影铁锈子^^ 
 |}
-[[/div]]
-'''“幻觉”'''（サイケデリック）效果可以让铁锈子的外观变换为类似某种幻觉的颜色。该效果只是装饰性效果，并不会给铁锈子某种附加能力。这个效果可以在[[psychedelic-town|]]的屋顶上获取。
+[[div]]
+'''“幻觉”'''（サイケデリック）效果可以让铁锈子的外观变换为类似某种幻觉的颜色。该效果只是装饰性效果，并不会给铁锈子某种附加能力。这个效果可以在[[[psychedelic-town|]]的屋顶上获取。
 
-=== 指南 ===
-* [[Entrance|]] > [[Dysmorphic World|]] > [[Footprint Path|]] > [[Rainbow Maze|]] > [[Psychedelic Town|]]
+===|指南 ===
+* [[Entrance|]]] > [[Dysmorphic World|]] > [[Footprint Path|]] > [[Rainbow Maze|]] > [[Psychedelic Town|]]
 进入彩虹后，先通过过渡房间，然后一路走进东北的入口，并通过门后的单行道。然后，向右走到底，进入尽头的门，接着走。途中你会遇到两对竖直排列的彩虹石头，它们组成了一条通向墙壁的垂直走道，与那里的墙互动即可来到迷幻街道的屋顶部分。
 
 [[div style="float:right; margin:0 2em 1em 2em; width:250px; border:0;"]]
@@ -17,11 +17,11 @@
 |-
 |!! ^^墙壁长这样，注意到铁锈子面前的奇怪线条了吗？^^ 
 |}
-[[/div]]
+[[div]]
 
 在这里，每个屋顶上都有数个NPC。按照以下顺序与之互动：蓝色、粉色、蓝色、北面的蓝色、南面的蓝色、南面的蓝色。然后你就会找到一个五彩斑斓的NPC。与之互动即可得到“幻觉”效果。
 
-=== 视频指南 ===
+===|视频指南 ===
 [[embedvideo]]
 
 <iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280125382&page=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

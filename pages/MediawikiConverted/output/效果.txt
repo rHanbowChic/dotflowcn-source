@@ -1,0 +1,186 @@
+{|
+|-
+[[hcell style="width:96px"]]
+[[File: Headphones_icon.png width="96px" link="Headphones" alt="耳机"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Ghost_icon.png width="96px" link="Ghost" alt="幽灵"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Iron_Pipe_icon.png width="96px" link="Iron Pipe" alt="铁管"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Mono_Eye_icon.png width="96px" link="Mono Eye" alt="独眼"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Diving_Helmet_icon.png width="96px" link="Diving Helmet" alt="潜水服"]]
+[[hcell]]
+
+|-
+|
+[[耳机|耳机]]
+|
+|
+[[幽灵|幽灵]]
+|
+|
+[[铁管|铁管]]
+|
+|
+[[独眼|独眼]]
+|
+|
+[[潜水服|潜水服]]
+|
+
+|-
+[[hcell|style="width:96px"]]
+[[File: Cat_icon.png width="96px" link="Cat" alt="猫"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Broom_icon.png width="96px" link="Broom" alt="扫帚"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Watering_Can_icon.png width="96px" link="Watering Can" alt="喷壶"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Whistle_icon.png width="96px" link="Whistle" alt="哨子"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Gas_Mask_icon.png width="96px" link="Gas Mask" alt="防毒面具"]]
+[[hcell]]
+
+|-
+|
+[[猫|猫]]
+|
+|
+[[扫帚|扫帚]]
+|
+|
+[[喷壶|喷壶]]
+|
+|
+[[哨子|哨子]]
+|
+|
+[[防毒面具|防毒面具]]
+|
+
+|-
+[[hcell|style="width:96px"]]
+[[File: Machine_icon.png width="96px" link="Machine" alt="机械"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Daruma_icon.png width="96px" link="Daruma" alt="不倒翁"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Slime_icon.png width="96px" link="Slime" alt="史莱姆"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Arms_icon.png width="96px" link="Arms" alt="手臂"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Viscera_icon.png width="96px" link="Viscera" alt="内脏"]]
+[[hcell]]
+
+|-
+|
+[[机械|机械]]
+|
+|
+[[不倒翁|不倒翁]]
+|
+|
+[[史莱姆|史莱姆]]
+|
+|
+[[手臂|手臂]]
+|
+|
+[[内脏|内脏]]
+|
+
+|-
+[[hcell|style="width:96px"]]
+[[File: Psychedelic_icon.png width="96px" link="Psychedelic" alt="幻觉"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Handgun_icon.png width="96px" link="Handgun" alt="手枪"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Corpse_icon.png width="96px" link="Corpse" alt="尸体"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Black_Hood_icon.png width="96px" link="Black Hood" alt="连帽衫"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Uniform_icon.png width="96px" link="Uniform" alt="制服"]]
+[[hcell]]
+
+|-
+|
+[[幻觉|幻觉]]
+|
+|
+[[手枪|手枪]]
+|
+|
+[[尸体|尸体]]
+|
+|
+[[连帽衫|连帽衫]]
+|
+|
+[[制服|制服]]
+|
+
+|-
+[[hcell|style="width:96px"]]
+[[File: Tattoo_icon.png width="96px" link="Tattoo" alt="刺青"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Plant_icon.png width="96px" link="Plant" alt="植物"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Dress_icon.png width="96px" link="Dress" alt="裙子"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Television_icon.png width="96px" link="Television" alt="电视"]]
+[[hcell]]
+[[hcell|style="width:96px"]]
+[[File: Empty_icon.png width="96px" link="Empty Boxes" alt="无垢/笑颜/鬼"]]
+[[hcell]]
+
+|-
+|
+[[刺青|刺青]]
+|
+|
+[[植物|植物]]
+|
+|
+[[裙子|裙子]]
+|
+|
+[[电视|电视]]
+|
+|
+[[无垢/笑颜/鬼|无垢/笑颜/鬼]]
+[|
+
+|}
+
+<!--|This thing below makes the table above centered -->]
+[[module CSS]]
+.centered-table {
+   margin-left: auto;
+   margin-right: auto;
+}
+@media screen and (max-device-width:500px) , screen and (orientation:portrait) {
+    #page-content th, #page-content img {
+        width: 72px;
+        font-size: 8px;
+    }
+}
+[[[module]]

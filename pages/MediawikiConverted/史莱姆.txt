@@ -4,11 +4,11 @@
 |-
 |!! ^^变成史莱姆的铁锈子^^ 
 |}
-[[/div]]
+[[div]]
 '''“史莱姆”'''（スライム）效果可以将铁锈子变成一大团绿色史莱姆，按下行动键{{Shift}}会让铁锈子融化成一滩粘液，然后再恢复。该效果可以通过在废水湖泊中与一滩同为深绿色的粘液互动来获得。
 
-=== 指南 ===
-* [[Entrance|]] > [[Music World|]] > [[Connecting Tile Path|]] > [[White Room|]] > [[Blood Maze|]] > [[Insides|]] > [[Sewers|]] > [[Wastewater Lake|]]
+===|指南 ===
+* [[[Entrance|]]] > [[Music World|]] > [[Connecting Tile Path|]] > [[White Room|]] > [[Blood Maze|]] > [[Insides|]] > [[Sewers|]] > [[Wastewater Lake|]]
 
 按照[[uniform#toc0|“制服”效果的指南部分]]到达废水湖，而后按照以下路径前进：
 

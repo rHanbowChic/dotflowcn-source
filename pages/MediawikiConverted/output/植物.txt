@@ -1,0 +1,27 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image Plant_Effect.png width="72px"]] 
+|-
+|!! ^^长满各种植物的铁锈子^^ 
+|}
+[[div]]
+'''“植物”'''（しょくぶつ）效果可以让铁锈子身上长满植物，而按下行动键{{Shift}}后植物会进一步生长。这个效果可以在[[[Illusionary|Corridors]]]中找到。
+
+=== 指南 ===
+* [[Entrance]] > [[Utility Pole World]] > [[Apartments]] > [[Snow World]] > [[Illusionary Corridors]]
+在雪原触发植物烟囱后进入矩形通风口并一路走到底，与那里的小藤蔓互动。在藤蔓消失之后回头继续向东，你会发现原来挡路的植物消失，在那后面还有一个入口。
+从新入口进入到幻想植物1后，绕过植物进入第四个门，你会来到幻想植物2。在幻想植物2的正中央有一朵被四朵白百合包围的白色巨花，与之互动即可获得“植物”效果。
+
+=== 视频指南 ===
+[[embedvideo]]
+
+<iframe src="''player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280136696&page=21" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[[[embedvideo]]
+
+=== 备考 ===
+* 在下雨时生长{{Shift}}会使铁锈子被疯长的植物束缚在原地。只有再次按下行动键{{Shift}}才能让铁锈子恢复行动能力。
+** ''“还有对植物的一种厌恶吧？（笑）能深深地感受到这点呢。”——身身身//
+
+=== 推测 ===
+* 从缺……

@@ -4,19 +4,19 @@
 |-
 |!! ^^潜水子^^ 
 |}
-[[/div]]
-'''潜水子'''（オレ子）是出现在[/submarine-world 海底世界]、[/orange-maze 橙色迷宫]、[/hole 大厅]、[/star-world 悲怆]和[/hospital 医院]的NPC。这个光着脚、穿着莎草纸裙子、戴着橙色潜水头盔的小女孩是[/diving-helmet “潜水服”效果]和[/orange-menu “橙色”菜单主题]的给予者。同时，在海底世界与她互动可以增加[/friendship-counter 友善值]；她的出现与否也受友善值影响。
+[[div]]
+'''潜水子'''（オレ子）是出现在[/submarine-world|海底世界]]、[[orange-maze|橙色迷宫]]、[[hole|大厅]]、[[star-world|悲怆]]和[[hospital|医院]]的NPC。这个光着脚、穿着莎草纸裙子、戴着橙色潜水头盔的小女孩是[[diving-helmet|“潜水服”效果]]和[[orange-menu|“橙色”菜单主题]]的给予者。同时，在海底世界与她互动可以增加[[friendship-counter|友善值]]；她的出现与否也受友善值影响。
 
 === 指南 ===
-* [/entrance 入口] > [/plant-world 植物] > [/submarine-world 海底世界] (> [/star-world 悲怆]）
-* [/Entrance 入口] > [/Music-World 音乐] > [/Connecting-Tile-Path 连瓦] > [/White-Room 白色房间] > [/Blood-Maze 血液] > [/Insides 内] > [/Sewers 下水道] > [/orange-maze 橙色迷宫]
-* [/entrance 入口] > [/utility-pole-world 电线杆] > [/apartments 公寓] > [/cloud-world 云] > [/Reverse-Apartments 里公寓] > [/sugar-hole Sugar Hole] > [/hole 大厅] (> [/hospital 医院])
+* [[entrance|入口]] > [[plant-world|植物]] > [[submarine-world|海底世界]] (> [[star-world|悲怆]]）
+* [[Entrance|入口]] > [[Music-World|音乐]] > [[Connecting-Tile-Path|连瓦]] > [[White-Room|白色房间]] > [[Blood-Maze|血液]] > [[Insides|内]] > [[Sewers|下水道]] > [[orange-maze|橙色迷宫]]
+* [[entrance|入口]] > [[utility-pole-world|电线杆]] > [[apartments|公寓]] > [[cloud-world|云]] > [[Reverse-Apartments|里公寓]] > [[sugar-hole|Sugar Hole]] > [[hole|大厅]] (> [[hospital|医院]])
 
-当友善值高于30时潜水子的灵魂会出现在[/star-world 悲怆]，与之互动即可得到[/orange-menu “橙色”菜单主题]。
+当友善值高于30时潜水子的灵魂会出现在[[star-world|悲怆]]，与之互动即可得到[[orange-menu|“橙色”菜单主题]]。
 海底世界的潜水子会随机出现在自家门前或家中，有时还会修理机器。
 橙色迷宫中有一个实验舱，里面漂浮着巨大的潜水子；继续前进则会看到和重伤铁锈子牵着手的半透明潜水子，站在被墙壁隔绝的地方。锖见不到后者，此时只有重伤的铁锈子仍站在原地。
 医院中出现的是小潜水子。
-潜水子还出现在大厅的[/hole#toc4 deadhole]，但只有锖能见到。当锖从通路进入deadhole时，潜水子的黑影会慢慢地走过deadhole的底部；当她走完或者被锖互动时都会立刻消失。铁锈子只能看到一套潜水服被挂在deadhole尽头墙上刺出的钢筋上。
+潜水子还出现在大厅的[[hole#toc4|deadhole]]，但只有锖能见到。当锖从通路进入deadhole时，潜水子的黑影会慢慢地走过deadhole的底部；当她走完或者被锖互动时都会立刻消失。铁锈子只能看到一套潜水服被挂在deadhole尽头墙上刺出的钢筋上。
 
 === 备考 ===
 * 潜水子的名字“オレ子”源自“オレンジ”（orenji，即orange）。
@@ -24,17 +24,17 @@
 
 === 推测 ===
 * 通常认为潜水子是铁锈子为数不多的，甚至唯一的好朋友。
-* 但也有理论认为潜水子是负责铁锈子实验的科学家的象征：她的友善是为了实验，而她的机器和潜水头盔都是实验机器，这些机器所呈现的的玩具风格是某种伪装或者铁锈子的误认。这也解释了为什么[/emty-boxes 无垢]的获取处会是漂浮在实验舱中的铁锈子。
+* 但也有理论认为潜水子是负责铁锈子实验的科学家的象征：她的友善是为了实验，而她的机器和潜水头盔都是实验机器，这些机器所呈现的的玩具风格是某种伪装或者铁锈子的误认。这也解释了为什么[[emty-boxes|无垢]]的获取处会是漂浮在实验舱中的铁锈子。
 
 === 艺作 ===
 {|
 |-
 [[hcell style="width:250px"]]
 [[File: Oreko_Illustration.png width="200px"]]
-[[/hcell]]
+[[[hcell]]
 
 |-
 |
-Orange， 作者[/lol 身身身]
+Orange， 作者[[lol|身身身]]
 
 |}

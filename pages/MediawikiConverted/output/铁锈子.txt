@@ -1,0 +1,53 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:100px; border:0;"]]
+{| class="wikitable"
+||| [[=image Sabitsuki.png width="72px"]] 
+|-
+|!! ^^铁锈子^^ 
+|}
+[[div]]
+'''铁锈子/附锈子'''[[footnote]]|本维基通用前称，但二者并无孰对孰错 [[[footnote]] （さびつき）是《.flow》的主人公之一。作为一部《梦日记》派生的主角，铁锈子和附窗子一样将封闭在房间中的大部分时间用来[[地图|游历梦境]]、[[效果|收集效果]]。她的过往和经历也同附窗子一般无人知晓。
+
+=== 指南 ===
+[[module ListPages category="_default" tags="结局" order="random" limit="1"]]
+* ''她一直在那里。''
+** ''她离开时，一切都已[[rust|锈蚀]]。''
+*** ''她回归时，一切都将[[%%page_name%%|终结]]。''
+[[module]]
+
+===|备考 ===
+* 按照《梦日记》派生的惯例，铁锈子的名字也以“~子”（-tsuki）作结。
+* 铁锈子的名字可写作“錆つき”（意为“锈蚀的”），正好与《.flow》的主题密切关联。
+* 铁锈子的发型是“睡乱的”，衣服是“日常的”，裙子是“最喜欢的”，鞋子是“皮鞋”——这些都可在菜单{{X}}中的“我”画面找到。
+* 铁锈子似乎是无浪漫倾向者。[[footnote]] https://twitter.com/lol_rust/status/1124325590318731266[[footnote]]
+*|铁锈子最喜欢的食物是蛋糕，最喜欢的饮品是茶和咖啡。[[footnote]] https://twitter.com/lol_rust/status/1457680952734355464[[footnote]]
+*|铁锈子的身高在140~150cm之间，不过她似乎还在长大。[[footnote]] https://twitter.com/lol_rust/status/1397204533730762758[[footnote]]
+*|铁锈子将得到的所有书籍和CD都收集了起来。[[footnote]] https://marshmallow-qa.com/messages/502f1762-fd7a-4e59-8466-a5e8fb3c2370[[footnote]]
+*|铁锈子最喜欢的颜色是橙色，其次是红色。[[footnote]] https://twitter.com/lol_rust/status/1497589429896355846[[footnote]]
+*|铁锈子的惯用手是左手。
+
+=== 推测 ===
+* 有理论认为铁锈子可能正在因疾病或疗程副作用而逐渐失去心智。
+** [[[kaibutsu]]]们似乎也已经或即将失去心智（表现为敌对和中立）。怪物们和铁锈子可能面临相同的问题。
+* 铁锈子在[[schol]]中大概并不受欢迎。同学们对她的忽视与嘲弄似乎化成了[[corrupted-school]]中的场景。
+* 铁锈子拒绝离开房间似乎是因为畏惧逃离隔离所带来的惩罚。
+* 根据[[hole-in-girl]]的景象，有人推测铁锈子可能经受过性创伤。
+* 有人认为[[Sugar Girl]]可能是铁锈子罹难的母亲或姐妹，她的悲惨遭遇使铁锈子难以忘却又极力逃避。
+
+=== 艺作 ===
+{|
+|-
+[[hcell style="width:250px"]]
+[[File: saby1.jpg size="small"]]
+[[hcell]]
+[[hcell|style="width:250px"]]
+[[File: saby2.jpg size="small"]]
+[[hcell]]
+
+|-
+|
+[https://twitter.com/lol_rust/status/569831047094865920 さびさびちゃん]，作者：[[lol]]
+|
+|
+[https://twitter.com/lol_rust/status/742771818323316737 もうねる]，作者：[[lol]]
+
+|}

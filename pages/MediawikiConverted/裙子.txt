@@ -4,21 +4,21 @@
 |-
 |!! ^^穿着丧服的铁锈子^^ 
 |}
-[[/div]]
-'''“裙子”'''（ドレス）效果可以让铁锈子穿上一件西洋丧服，配有手套与面纱，按下行动键{{Shift}}后铁锈子会行屈膝礼。就像其他许多效果一样，该效果只是装饰性效果，并不会给铁锈子某种附加能力。这个效果可在[[snow-world|]]中找到。
+[[div]]
+'''“裙子”'''（ドレス）效果可以让铁锈子穿上一件西洋丧服，配有手套与面纱，按下行动键{{Shift}}后铁锈子会行屈膝礼。就像其他许多效果一样，该效果只是装饰性效果，并不会给铁锈子某种附加能力。这个效果可在[[[snow-world|]]中找到。
 
-=== 指南 ===
-* [[Entrance|]] > [[Utility Pole World|]] > [[Apartments|]] > [[Snow World|]]
+===|指南 ===
+* [[Entrance|]]] > [[Utility Pole World|]] > [[Apartments|]] > [[Snow World|]]
 
 按照[[black-hood#toc0|“连帽衫”效果中的指南]]到达雪原后直直地向南走，你会看见三座工业烟囱形建筑。中间的烟囱里有一个服装店假人，穿着黑色丧服。与之互动即可得到“裙子”效果。
 
 === 视频指南 ===
 [[embedvideo]]
 <iframe src="''player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280129603&page=15" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-[[/embedvideo]]
+[[embedvideo]]
 
-=== 备考 ===
-* 当铁锈子在[[gas-mask-maids|]]身边行屈膝礼{{Shift}}时，她们会回以鞠躬。
+===|备考 ===
+* 当铁锈子在[[[gas-mask-maids|]]]身边行屈膝礼{{Shift}}时，她们会回以鞠躬。
 
 === 推测 ===
 * 丧服——如此令人哀痛的服装却被简单地叫做“裙子”，这可能表示铁锈子经常需要穿上这件裙子，反映出她生活的困苦与重负。

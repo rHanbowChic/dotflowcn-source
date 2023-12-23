@@ -1,0 +1,14 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Invisible_Chair_glitch.png size="small"]] 
+|-
+|!! ^^椅子不见了^^ 
+|}
+[[[div]]
+'''“隐形椅子”'''漏洞是[[椅中菜单|椅中菜单]]的附带漏洞，会让电脑前的椅子不可见。
+
+=== 激活漏洞 ===
+* 在flow状态下激活椅中菜单后，醒来，再flow，此时椅子会消失。
+
+=== 备考 ===
+* 椅子只是“隐身”了，而不是完全消失。它仍然占据一格位置。

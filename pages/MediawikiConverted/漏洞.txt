@@ -9,7 +9,7 @@
 * [[Unrestricted Effects|现实效果]]
 * [[Use Effects in Bed|床上效果]]
 * [[Walk Through Walls|穿墙]]
-
+|
 |
 === 次要漏洞 ===
 * [[Bed Softlock|床锁死]]
@@ -22,14 +22,15 @@
 * [[Invisible Sabitsuki|隐形铁锈子]]
 * [[Steal the Chair|偷椅子]]
 * [[Use Menus During Shinsoku Neko|神速猫内菜单]]
+[|
 
 |}
 
-<!--* ''Broken Effects''
+<!--*|''Broken Effects''
 * ''Effect Spinning''
 * ''Glitched Childbirth''
 * ''Glitched Ending''
 * ''Invisible Shinsoku Neko''
 * ''Sitting While Standing (SwS)''
 * ''Room Storage''
-* ''Steal the Timer''-->
+* ''Steal the Timer''-->]

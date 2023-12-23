@@ -4,11 +4,11 @@
 |-
 |!! ^^眼纹十字刺青的铁锈子^^ 
 |}
-[[/div]]
-'''刺青'''（いれずみ）效果会让铁锈子的双眼变为十字。与学校顶层阳台上的[[smile|]]互动即可获得该效果。
+[[div]]
+'''刺青'''（いれずみ）效果会让铁锈子的双眼变为十字。与学校顶层阳台上的[[[smile|]]互动即可获得该效果。
 
-=== 指南 ===
-* [[Entrance|]] > [[Utility Pole World|]] > [[Apartments|]] > [[Cloud World|]] > [[Reverse Apartments|]] > [[Wastewater Lake|]] > [[school|]]
+===|指南 ===
+* [[Entrance|]]] > [[Utility Pole World|]] > [[Apartments|]] > [[Cloud World|]] > [[Reverse Apartments|]] > [[Wastewater Lake|]] > [[school|]]
 
 到达[[wastewater-lake|]]后，按照“东，北，东，南，东，北，东，北”的顺序行进，你会看到一盏路灯；按{{Z}}键与之互动即可到达邻里。走下西边的楼梯、穿过地下通道与长楼梯，而后向北走，你将会找到[[school|]]的入口。
 
@@ -19,9 +19,9 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280118994&page=5" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-[[/embedvideo]]
+[[embedvideo]]
 
-=== 备考 ===
+===|备考 ===
 * 该效果的形象受到了《异兽魔都》的影响。
 ** 在《异兽魔都》中有名为“十字眼组织”的黑帮组织，其成员双眼皆被纹上了红色十字刺青。
 * 在铁锈子的左肩上也有不起眼的刺青。
@@ -35,5 +35,5 @@
 * "刺青"效果的外观也可能是某种手术标记或疤痕。
 ** 这样的标记/疤痕可能来自笑颜或与笑颜有关，因为笑颜也有着同样的刺青，而这个效果也是从笑颜处取得的。
 *** 值得注意的是，天台上的笑颜并没有十字刺青。
-** 这种标记/疤痕或许正是[[kaibutsu|]]们总是发出尖锐笑声的原因，象征着铁锈子的同学们总是为此而耻笑、孤立她。
+** 这种标记/疤痕或许正是[[[kaibutsu|]]]们总是发出尖锐笑声的原因，象征着铁锈子的同学们总是为此而耻笑、孤立她。
 ** 这同样与游戏无处不在的“极端身体改造”的主题相契合。

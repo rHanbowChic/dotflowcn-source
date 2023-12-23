@@ -1,0 +1,88 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:300px; border:0;"]]
+{| class="wikitable"
+||| [[File: Entrance_1.png size="small"]] 
+|-
+|!! ^^入口，第一种外观^^ 
+|}
+[[div]]
+'''入口'''（エントランス）是flow状态下整个世界的枢纽，为有限空间。该地图不包含任何效果。
+
+在flow状态下走出[[“自己的房间”/“我的房间”|“我的房间”]]即可到达入口。
+
+朝着四个方向前进会到达四个不同的地图：向北是[[dysmorphic|畸形]]，向南是[[植物|植物]]，向西是[[电线杆|电线杆]]，向东是[[音乐|音乐]]。走进门中则会回到“我的房间”。
+
+每次flow入口的外观都会改变。
+* 如果已收集的效果少于十四种，则入口的外观会在1-3之间随机选择。
+* 如果已收集的效果在十四种到十九种之间，则入口的外观会在1-4之间随机选择。
+* 如果已收集的效果在二十种到二十三种之间，则入口的外观会在1-5之间随机选择。
+* 如果已收集的效果为二十四种（即全收集），则入口的外观会在1-6之间随机选择。
+
+使用[[手臂|“手臂”]]效果同样可以带你来到入口，但在入口时“手臂”效果将不可用。
+
+=== 指南 ===
+* [[“自己的房间”/“我的房间”|“我的房间”]] > 入口
+
+=== 连接 ===
+* [[“自己的房间”/“我的房间”|“我的房间”]]
+* [[dysmorphic|畸形]]
+* [[音乐|音乐]]
+* [[植物|植物]]
+* [[电线杆|电线杆]]
+
+=== 备考 ===
+* 入口的外观在每次进入flow状态时就已经决定了，而在下一次进入flow状态之前将不会被改变。
+* 橙色外观并不在随机显示之列；暂不知道其触发方法。
+* 橙色外观的底图与[[orange-maze|橙色迷宫]]及[[orange-passage|橙色地下通道]]相同。
+
+[[module ListPages category="_default" tags="结局" order="random" limit="1" ]]
+=== 推测 ===
+* 随着游戏的进展，入口的外观不断变化，而铁锈子也在一步步地走向[[%%page_name%%|结局]]。入口外观的变化可能代表着铁锈子的心理状态不断恶化。
+[[[module]]
+
+===|所有外观 ===
+{|
+|-
+[[hcell style="width:300px"]]
+[[File: Entrance_2.png size="small"]]
+[[hcell]]
+[[hcell|style="width:300px"]]
+[[File: Entrance_3.png size="small"]]
+[[hcell]]
+[[hcell|style="width:300px"]]
+[[File: Entrance_4.png size="small"]]
+[[hcell]]
+
+|-
+|
+第二种外观
+|
+|
+第三种外观
+|
+|
+第四种外观
+|
+
+|-
+[[hcell|style="width:300px"]]
+[[File: Entrance_5.png size="small"]]
+[[hcell]]
+[[hcell|style="width:300px"]]
+[[File: Entrance_6.png size="small"]]
+[[hcell]]
+[[hcell|style="width:300px"]]
+[[File: Entrance_Orange.png size="small"]]
+[[hcell]]
+
+|-
+|
+第五种外观
+|
+|
+第六种外观
+|
+|
+橙色外观
+
+
+|}

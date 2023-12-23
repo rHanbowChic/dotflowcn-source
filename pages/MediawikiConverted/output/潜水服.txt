@@ -1,0 +1,28 @@
+[[div style="float:right; margin:0 2em 1em 2em; width:200px; border:0;"]]
+{| class="wikitable"
+||| [[=image Diving_Helmet_Effect.png width="64px"]] 
+|-
+|!! ^^戴着潜水头盔的铁锈子^^ 
+|}
+[[div]]
+
+'''“潜水服”'''（せんすいふく）效果可以在[[[submarine-world]]中通过与[[oreko]]互动来获得。
+
+===|指南 ===
+* [[entrance]]] > [[plant-world]] > [[submarine-world ]]
+
+潜水子有时在家里修理机器，有时在门口闲逛。当潜水子在修理机器时，铁锈子将无法和她互动，只能通过反复进入房间来等待她修理完成并离开座位。
+
+=== 视频指南 ===
+
+[[html]]
+
+<iframe src="//player.bilibili.com/player.html?aid=458556759&bvid=BV1W5411n7cp&cid=280128806&page=14" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[[[html]]
+
+=== 备考 ===
+* 按下行动键{{Shift}}后，铁锈子的头盔上会冒出几个泡泡。
+
+=== 推测 ===
+* 从缺……
