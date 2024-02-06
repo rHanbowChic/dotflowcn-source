@@ -15,7 +15,7 @@
 * 有2个标题为“植物”的页面。
 * 2个页面，“侵蚀度”和“小铁锈子”，包含文件名相同的附件，但内容不同。
 
-[^AccessMethod]: 如果无法进入，可使用[FoggyPath](https://github.com/rHanbowChic/FoggyPath)。
+[^AccessMethod]: 如果无法进入，可使用[FoggyPath](https://github.com/rHanbowChic/FoggyPath)。更新：2024年2月6日，网站已经可以正常进入。
 [^EmptyBox]: 这个页面当前是空白的，因为管理员pbPlankin在10月5日由于未知原因清空了它。同时被清空的还有“dotflow中文维基”，“下载”，“效果”，“地图”，“角色”，“事件”与“其他”这几个顶部导航栏可直接访问的页面。但是，在“历史记录”中仍然可以查看以前的页面版本。
 
 <sup><sub>*所以pbP到底遭遇了什么？*</sub></sup>
